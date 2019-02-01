@@ -1,0 +1,5295 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.62002,23.03431 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Amber Cinema: Ahmedabad",
+    "average_ticket_price":100.83333329999999,
+    "total_seats":763,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":763,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":98.75,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.61333,23.00656 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Anupam Cinema: Ahmedabad",
+    "average_ticket_price":125.83333329999999,
+    "total_seats":781,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":781,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":121.25,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.6266,13.04541 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"7D Mastii: Element Mall, Nagwara",
+    "average_ticket_price":150,
+    "total_seats":18,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Mastiii 7D",
+    "calculated_seats":90,
+    "calculated_ticket_prices":150,
+    "calculated_screens":5,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.74778,12.959719999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"7D Mastiii: Forum Value Mall, Whitefield",
+    "average_ticket_price":150,
+    "total_seats":16,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Mastiii 7D",
+    "calculated_seats":80,
+    "calculated_ticket_prices":150,
+    "calculated_screens":5,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.67533,12.9264 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"7D Voyage: Central Mall, Bellandur",
+    "average_ticket_price":180,
+    "total_seats":8,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"7D Voyage",
+    "calculated_seats":40,
+    "calculated_ticket_prices":180,
+    "calculated_screens":5,
+    "average_2":180,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60999,12.97004 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"7D VR Voyage: Garuda Mall",
+    "average_ticket_price":190,
+    "total_seats":8,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"7D Voyage",
+    "calculated_seats":40,
+    "calculated_ticket_prices":190,
+    "calculated_screens":5,
+    "average_2":190,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57755,12.97354 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Abhinay Theatre: Gandhi Nagar",
+    "average_ticket_price":130,
+    "total_seats":1019,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":491,
+    "calculated_ticket_prices":130,
+    "calculated_screens":1,
+    "average_2":130,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.51611,13.01481 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Akash Cinemas (Rajeshwari Theatre): Laggere",
+    "average_ticket_price":125,
+    "total_seats":780,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":254,
+    "calculated_ticket_prices":125,
+    "calculated_screens":1,
+    "average_2":125,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.62621,13.01244 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Amruth Theatre: Lingarajapuram",
+    "average_ticket_price":127.5,
+    "total_seats":926,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":219,
+    "calculated_ticket_prices":105,
+    "calculated_screens":1,
+    "average_2":127.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.55891,12.97517 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Anjan Digital 4K A/C Cinema: Magadi Road",
+    "average_ticket_price":125,
+    "total_seats":990,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":97,
+    "calculated_ticket_prices":125,
+    "calculated_screens":1,
+    "average_2":125,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5756,12.97616 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Anupama Theatre: Gandhinagar",
+    "average_ticket_price":106.5,
+    "total_seats":1032,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":387,
+    "calculated_ticket_prices":106.5,
+    "calculated_screens":1,
+    "average_2":106.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.56721999999999,12.98679 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Aruna Theatre: Srirampuram",
+    "average_ticket_price":109,
+    "total_seats":936,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":256,
+    "calculated_ticket_prices":109,
+    "calculated_screens":1,
+    "average_2":109,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60781,12.92554 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Balaji Digital 2K Cinema: Tavarekere",
+    "average_ticket_price":120,
+    "total_seats":880,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":323,
+    "calculated_ticket_prices":132.5,
+    "calculated_screens":1,
+    "average_2":117.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57964,12.97382 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Bhumika Digital 2K Cinema: Gandhinagar",
+    "average_ticket_price":135,
+    "total_seats":894,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":344,
+    "calculated_ticket_prices":135,
+    "calculated_screens":1,
+    "average_2":135,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.58328,13.00256 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Cauvery Theatre: Sankey Road",
+    "average_ticket_price":123.33333329999999,
+    "total_seats":1210,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":757,
+    "calculated_ticket_prices":123.33333329999999,
+    "calculated_screens":1,
+    "average_2":123.33333329999999,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.56129,12.93546 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Chandrodaya Digital 2K Cinema: Vidyapeeta Circle",
+    "average_ticket_price":110,
+    "total_seats":960,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":294,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57113000000001,12.99296 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Cinesquare Savitha Theatre: Malleshwaram",
+    "average_ticket_price":133.3333333,
+    "total_seats":350,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":128,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":133.3333333,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ufo.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.55344000000001,12.923589999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Eshwari Digital 2K Cinema: Banashankari",
+    "average_ticket_price":108.33333329999999,
+    "total_seats":918,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":444,
+    "calculated_ticket_prices":125,
+    "calculated_screens":1,
+    "average_2":115,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.61844,13.00013 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Everest Digital 2K Cinema: Frazer Town",
+    "average_ticket_price":125,
+    "total_seats":546,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":243,
+    "calculated_ticket_prices":125,
+    "calculated_screens":1,
+    "average_2":125,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.62648,12.89108 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Galaxy Paradise Screen 1: Bommanahalli Hosur Rd",
+    "average_ticket_price":160,
+    "total_seats":100,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":80,
+    "calculated_ticket_prices":160,
+    "calculated_screens":1,
+    "average_2":160,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ufo.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.62648,12.89108 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Galaxy Paradise: Screen 2",
+    "average_ticket_price":160,
+    "total_seats":120,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":100,
+    "calculated_ticket_prices":160,
+    "calculated_screens":1,
+    "average_2":160,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ufo.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.55131999999999,13.02163 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Goverdhan Theatre: Yeshwantpur",
+    "average_ticket_price":90,
+    "total_seats":1064,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":223,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5439,13.0495 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"HMT Digital 4K Cinema: Jalahalli",
+    "average_ticket_price":150,
+    "total_seats":874,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":107,
+    "calculated_ticket_prices":150,
+    "calculated_screens":1,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.55334,12.92331 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Kamakya Cinema: Banashankari",
+    "average_ticket_price":100,
+    "total_seats":706,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":308,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57578000000001,12.977910000000001 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Kapali Theatre: Gandhi Nagar",
+    "average_ticket_price":100,
+    "total_seats":1475,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":295,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60775,12.925239999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Lakshmi Digital 4K Cinema: Tavarekere",
+    "average_ticket_price":132.5,
+    "total_seats":900,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":330,
+    "calculated_ticket_prices":132.5,
+    "calculated_screens":1,
+    "average_2":132.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5622,12.89064 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Manasa Digital 4K Dolby Atmos: Konanakunte",
+    "average_ticket_price":175,
+    "total_seats":640,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":250,
+    "calculated_ticket_prices":175,
+    "calculated_screens":1,
+    "average_2":175,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57934,12.973139999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Menaka Talkies: Gandhi Nagar",
+    "average_ticket_price":130,
+    "total_seats":971,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":208,
+    "calculated_ticket_prices":130,
+    "calculated_screens":1,
+    "average_2":130,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.63585,13.00325 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Mukunda Dolby Atmos: M S Nagar",
+    "average_ticket_price":159.375,
+    "total_seats":814,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":814,
+    "calculated_ticket_prices":112.5,
+    "calculated_screens":1,
+    "average_2":159.375,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5526,13.03842 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Murali Gokula Digital 4K Cinema: Mathikere",
+    "average_ticket_price":118,
+    "total_seats":900,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":206,
+    "calculated_ticket_prices":118,
+    "calculated_screens":1,
+    "average_2":118,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57619,12.9743 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Nartaki Theatre: Gandhi Nagar",
+    "average_ticket_price":111.5,
+    "total_seats":1150,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":209,
+    "calculated_ticket_prices":111.5,
+    "calculated_screens":1,
+    "average_2":111.5,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5528,12.99784 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Navrang Theatre: Rajaji Nagar",
+    "average_ticket_price":90,
+    "total_seats":990,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":208,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.58742,12.96096 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Poornima Theatre: J.C. Road",
+    "average_ticket_price":115,
+    "total_seats":934,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":104,
+    "calculated_ticket_prices":115,
+    "calculated_screens":1,
+    "average_2":115,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.67520999999999,12.99809 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Pushpanjali A/C Theatre: B.N. Pura",
+    "average_ticket_price":125,
+    "total_seats":999,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":320,
+    "calculated_ticket_prices":125,
+    "calculated_screens":1,
+    "average_2":125,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.6113,12.93463 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Forum Gold, Bengaluru",
+    "average_ticket_price":825,
+    "total_seats":32,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":32,
+    "calculated_ticket_prices":685,
+    "calculated_screens":1,
+    "average_2":832,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69530999999999,12.99639 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: IMAX, VR Bengaluru, Whitefield",
+    "average_ticket_price":292,
+    "total_seats":292,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":292,
+    "calculated_ticket_prices":260,
+    "calculated_screens":1,
+    "average_2":292,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69573000000001,12.99725 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Market City (4DX), Bengaluru",
+    "average_ticket_price":450,
+    "total_seats":100,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":100,
+    "calculated_ticket_prices":450,
+    "calculated_screens":1,
+    "average_2":450,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.55509,13.011 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Orion Gold, Rajajinagar",
+    "average_ticket_price":806.2962963,
+    "total_seats":144,
+    "no_screens":3,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":144,
+    "calculated_ticket_prices":580,
+    "calculated_screens":3,
+    "average_2":788,
+    "source_of_information":"BookMyShow",
+    "notes":"http://www.thehindubusinessline.com/companies/pvr-opens-3-gold-class-screens-at-orion-mall/article4720493.ece",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.61109,12.93455 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Pepsi IMAX, Koramangala",
+    "average_ticket_price":365,
+    "total_seats":346,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":346,
+    "calculated_ticket_prices":325,
+    "calculated_screens":1,
+    "average_2":365,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.59387,13.01337 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Radhakrishna Theatre: R.T. Nagar",
+    "average_ticket_price":125,
+    "total_seats":921,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":317,
+    "calculated_ticket_prices":125,
+    "calculated_screens":1,
+    "average_2":125,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.50206,12.95695 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Rajarajeshwari Theatre: Nagarbhavi Circle",
+    "average_ticket_price":90,
+    "total_seats":1080,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":140,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.62217,12.951239999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Ravi Digital 2K Cinema: Ejipura",
+    "average_ticket_price":109,
+    "total_seats":820,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":256,
+    "calculated_ticket_prices":109,
+    "calculated_screens":1,
+    "average_2":109,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60663000000001,12.97262 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Rex Theatre: Brigade Road",
+    "average_ticket_price":185,
+    "total_seats":707,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":707,
+    "calculated_ticket_prices":160,
+    "calculated_screens":1,
+    "average_2":187.5,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5711,12.99307 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sampige Digital 2k Cinema: Malleshwaram",
+    "average_ticket_price":150,
+    "total_seats":1129,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":178,
+    "calculated_ticket_prices":150,
+    "calculated_screens":1,
+    "average_2":150,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60294,12.98161 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sandeep Theatre: Shivaji Nagar",
+    "average_ticket_price":90,
+    "total_seats":309,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":117,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.61794,12.92101 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sandhya Digital 4K Projection Dolby Atmos: Madiwal",
+    "average_ticket_price":125,
+    "total_seats":720,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":305,
+    "calculated_ticket_prices":125,
+    "calculated_screens":1,
+    "average_2":125,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60294,12.98161 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sangeet Theatre: Shivaji Nagar",
+    "average_ticket_price":115,
+    "total_seats":860,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":110,
+    "calculated_ticket_prices":115,
+    "calculated_screens":1,
+    "average_2":115,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57638,12.974839999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Santosh Theatre: Gandhinagar",
+    "average_ticket_price":106,
+    "total_seats":680,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":71,
+    "calculated_ticket_prices":106,
+    "calculated_screens":1,
+    "average_2":106,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57619,12.9743 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sapna Theatre: Gandhi Nagar",
+    "average_ticket_price":95,
+    "total_seats":345,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":108,
+    "calculated_ticket_prices":95,
+    "calculated_screens":1,
+    "average_2":95,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.58471,12.96528 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sharada Cinemas A/C: S.P Road",
+    "average_ticket_price":109,
+    "total_seats":680,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":330,
+    "calculated_ticket_prices":109,
+    "calculated_screens":1,
+    "average_2":109,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.61944,12.95686 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Balaji Digital 2K Cinema: Viveknagar",
+    "average_ticket_price":175,
+    "total_seats":415,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":246,
+    "calculated_ticket_prices":175,
+    "calculated_screens":1,
+    "average_2":175,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5373,12.93363 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Kokila Theatre: Hosakerehalli",
+    "average_ticket_price":80,
+    "total_seats":650,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":201,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ufo.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.62935999999999,12.90535 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Krishna Digital 2K Cinema: Bommanahalli",
+    "average_ticket_price":100,
+    "total_seats":800,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":374,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69893,13.00889 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Krishna Theatre: KR Puram",
+    "average_ticket_price":100,
+    "total_seats":979,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":73,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.67387,13.0103 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Lakshmi Theatre: Ramamurthy Nagar",
+    "average_ticket_price":100,
+    "total_seats":618,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":128,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.58783000000001,12.91506 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Renuka Prasanna Theatre: J P Nagar",
+    "average_ticket_price":104,
+    "total_seats":1078,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":173,
+    "calculated_ticket_prices":104,
+    "calculated_screens":1,
+    "average_2":104,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.55804,12.90898 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Srinivasa Theatre: Padmanabanagara",
+    "average_ticket_price":110,
+    "total_seats":725,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":177,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.48814,12.94238 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Vajreshwari Theatre: Ullal",
+    "average_ticket_price":110,
+    "total_seats":844,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":322,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.48277,12.90644 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Venkateshwara Theatre: Kengeri",
+    "average_ticket_price":100,
+    "total_seats":500,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":90,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.74443000000001,12.93572 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Vinayaka A/C Digital 2K Cinemas: Varthur",
+    "average_ticket_price":138.33333330000002,
+    "total_seats":531,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":213,
+    "calculated_ticket_prices":138.33333330000002,
+    "calculated_screens":1,
+    "average_2":138.33333330000002,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.ticketnew.com/onlinetheatre/Theatre/SelectSeats.aspx?EventID=NTE1Nw%3d%3d-v4f3LA3XrBs%3d&ReqSeats=MTA%3d-zISu%2bSIzx8g%3d&LevelID=NDA%3d-NnxOFOSoXLs%3d&ReqDate=MjAxNy0xMC0xOQ%3d%3d-d%2blLRzLAiPA%3d&VenueID=MzI0-85r%2bhTYA2kg%3d&SiteInfo=MA%3d%3d-110A7HeCwRM%3d&MovieURL=aHR0cDovL3d3dy50aWNrZXRuZXcuY29tL1NyaS1WaW5heWFrYS1DaW5lbWFzLUEtQy1kdHMtMkstVmFydGh1ci1CYW5nYWxvcmUtQm9vay1NeS1Nb3ZpZS1TaG93LVRpY2tldHMvT25saW5lLVRpY2tldC1Cb29raW5nLzMyNC8yMDE3MTAxOQ%3d%3d-wktvo3zCDCk%3d",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60564000000001,13.0144 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Sri Vinayaka Digital 2K Cinema (D.J.Halli)",
+    "average_ticket_price":109,
+    "total_seats":850,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":252,
+    "calculated_ticket_prices":109,
+    "calculated_screens":1,
+    "average_2":109,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60772,12.93188 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Srinivasa Digital 4K Cinema: S.G. Palya",
+    "average_ticket_price":132.5,
+    "total_seats":800,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":354,
+    "calculated_ticket_prices":132.5,
+    "calculated_screens":1,
+    "average_2":132.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.64969,12.91991 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Thirumala Digital 2K Cinema: Agara",
+    "average_ticket_price":108.5,
+    "total_seats":904,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":164,
+    "calculated_ticket_prices":108.5,
+    "calculated_screens":1,
+    "average_2":108.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57538000000001,12.976280000000001 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Triveni Theatre: Gandhinagar",
+    "average_ticket_price":109,
+    "total_seats":800,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":241,
+    "calculated_ticket_prices":109,
+    "calculated_screens":1,
+    "average_2":109,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.58541,12.95607 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Urvashi Digital 4K Cinema: Lalbagh Road",
+    "average_ticket_price":237.5,
+    "total_seats":1100,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":1100,
+    "calculated_ticket_prices":200,
+    "calculated_screens":1,
+    "average_2":237.5,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57463,13.03558 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Vaibhav Digital 4K Cinema: Sanjaynagar",
+    "average_ticket_price":142.33333330000002,
+    "total_seats":935,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":213,
+    "calculated_ticket_prices":134,
+    "calculated_screens":1,
+    "average_2":142,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.54415,12.90348 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Vaibhavi A/C Theatre: Uttarahalli",
+    "average_ticket_price":105,
+    "total_seats":715,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":264,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":102,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5405,13.07427 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Vainidhi Digital 2K Cinemas (Chandan): Singapura",
+    "average_ticket_price":110,
+    "total_seats":725,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":202,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.54415,12.90348 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Vaishnavi A/C Theatre: Uttarahalli",
+    "average_ticket_price":120,
+    "total_seats":800,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":408,
+    "calculated_ticket_prices":120,
+    "calculated_screens":1,
+    "average_2":120,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.52909,12.9931 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Veerabhadreshwara Theatre: Kamala Nagar",
+    "average_ticket_price":97.5,
+    "total_seats":898,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":162,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":93,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.54595,12.97707 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Veeresh Cinemas Screen 1: Magadi Rd",
+    "average_ticket_price":80,
+    "total_seats":178,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":178,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow",
+    "notes":"Media Ant number check again.",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.54595,12.97707 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Veeresh Cinemas Screen 2: Magadi Rd",
+    "average_ticket_price":100,
+    "total_seats":214,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":214,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":94,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69667,13.00525 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Venkateshwara A/c Digital 2K Cinema: K.R.Puram",
+    "average_ticket_price":104,
+    "total_seats":877,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":254,
+    "calculated_ticket_prices":104,
+    "calculated_screens":1,
+    "average_2":104,
+    "source_of_information":"BookMyShow",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.47391999999999,12.988480000000001 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Venkateshwara Cinemas: Gollarahatti,Magadi Rd",
+    "average_ticket_price":90,
+    "total_seats":300,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":300,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow",
+    "notes":"Could Not Confirm",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.54796999999999,12.94351 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Venkateshwara Digital 2K Cinema: Avalahalli Girina",
+    "average_ticket_price":100,
+    "total_seats":363,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":363,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow",
+    "notes":"Could Not Confirm",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.53969000000001,12.94846 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Vijay Theatre: Byatarayanapura",
+    "average_ticket_price":118,
+    "total_seats":912,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":94,
+    "calculated_ticket_prices":118,
+    "calculated_screens":1,
+    "average_2":118,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.70187,12.99348 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Vijayalakshmi Digital 2K Cinema: Garudacharpalya",
+    "average_ticket_price":100,
+    "total_seats":671,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":136,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57015,12.874880000000001 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Vinayaka Theatre: Harinagar",
+    "average_ticket_price":80,
+    "total_seats":850,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":120,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.53018,12.98318 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Vishal A/C Theatre: Kamakshipalya",
+    "average_ticket_price":80,
+    "total_seats":875,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":388,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.27129000000001,13.067169999999999 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"Anna Theatre: Chennai",
+    "average_ticket_price":94.6,
+    "total_seats":364,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":324,
+    "calculated_ticket_prices":94.6,
+    "calculated_screens":1,
+    "average_2":94.6,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.27017,13.06868 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"Casino Theatre: Chennai",
+    "average_ticket_price":59,
+    "total_seats":83,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":83,
+    "calculated_ticket_prices":59,
+    "calculated_screens":1,
+    "average_2":59,
+    "source_of_information":"BookMyShow",
+    "notes":"Could Not Confirm",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.25632,13.003969999999999 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"Ganapathy Ram Theatre: Chennai",
+    "average_ticket_price":90,
+    "total_seats":852,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":769,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.22324,13.0196 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"Raj Theatre - A/C DTS: Chennai",
+    "average_ticket_price":175,
+    "total_seats":950,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":780,
+    "calculated_ticket_prices":175,
+    "calculated_screens":1,
+    "average_2":175,
+    "source_of_information":"BookMyShow",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.20358,13.00176 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"SK-Marlen Cinemas 2K, Guindy: Alandur",
+    "average_ticket_price":150,
+    "total_seats":229,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":229,
+    "calculated_ticket_prices":150,
+    "calculated_screens":1,
+    "average_2":150,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.marlencinemas.com/previewTheater.html",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.12087,28.65083 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"7D Mastiii: TDI Mall, Rajouri Garden, Delhi",
+    "average_ticket_price":170,
+    "total_seats":18,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":90,
+    "calculated_ticket_prices":170,
+    "calculated_screens":5,
+    "average_2":170,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.2342,28.65628 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Abhishek Cineplex: Chandni Chowk",
+    "average_ticket_price":96.46666667,
+    "total_seats":260,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":260,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":96.46666667,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.20104,28.67724 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Amba Cinema: Delhi",
+    "average_ticket_price":128,
+    "total_seats":486,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":486,
+    "calculated_ticket_prices":128,
+    "calculated_screens":1,
+    "average_2":128,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.26865,28.561529999999998 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Batra Reels Cinemas: New Friends Colony",
+    "average_ticket_price":287.5,
+    "total_seats":1500,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":326,
+    "calculated_ticket_prices":223.33333330000002,
+    "calculated_screens":1,
+    "average_2":283.3333333,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.24011,28.54135 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"DT Cinemas: Savitri Complex GK2",
+    "average_ticket_price":238.88888889999998,
+    "total_seats":300,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"DT Cinemas",
+    "calculated_seats":300,
+    "calculated_ticket_prices":150,
+    "calculated_screens":1,
+    "average_2":233.33333330000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.31493,28.69635 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Gagan Cinema: Delhi",
+    "average_ticket_price":62.5,
+    "total_seats":982,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":258,
+    "calculated_ticket_prices":62.5,
+    "calculated_screens":1,
+    "average_2":62.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.24199,28.581220000000002 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"INOX Eros One: Jangpura Extn",
+    "average_ticket_price":465.41666669999995,
+    "total_seats":317,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Inox",
+    "calculated_seats":317,
+    "calculated_ticket_prices":305,
+    "calculated_screens":1,
+    "average_2":450.83333330000005,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.18973000000001,28.659409999999998 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Liberty Cinema: Karol Bagh",
+    "average_ticket_price":110,
+    "total_seats":959,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":959,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.24099,28.56778 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: 3CS, Delhi",
+    "average_ticket_price":247.7777778,
+    "total_seats":315,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":315,
+    "calculated_ticket_prices":150,
+    "calculated_screens":1,
+    "average_2":238,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.21966,28.63515 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Plaza-CP, Delhi",
+    "average_ticket_price":366.6666667,
+    "total_seats":300,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":300,
+    "calculated_ticket_prices":200,
+    "calculated_screens":1,
+    "average_2":350,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.16449,28.55732 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Priya, Delhi",
+    "average_ticket_price":266.25,
+    "total_seats":944,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":944,
+    "calculated_ticket_prices":255,
+    "calculated_screens":1,
+    "average_2":267,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.21636,28.631009999999996 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Rivoli, Delhi",
+    "average_ticket_price":320.8333333,
+    "total_seats":329,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":329,
+    "calculated_ticket_prices":183.33333330000002,
+    "calculated_screens":1,
+    "average_2":330,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.21973,28.528570000000002 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Select City Walk (Gold), Delhi",
+    "average_ticket_price":943.75,
+    "total_seats":40,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":80,
+    "calculated_ticket_prices":500,
+    "calculated_screens":2,
+    "average_2":923.0769231,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.22984,28.666690000000003 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Ritz Cinema: Kashmere Gate, Delhi",
+    "average_ticket_price":113.33333329999999,
+    "total_seats":576,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":160,
+    "calculated_ticket_prices":113.33333329999999,
+    "calculated_screens":1,
+    "average_2":113.33333329999999,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"http://www.hindustantimes.com/delhi-news/ritz-cinema-reopens-with-modern-tech-to-claim-lost-glory/story-mOPgUEGm01E9y82kLlTT0N.html",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.21691,28.64457 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Shiela Cinema: Delhi",
+    "average_ticket_price":133.3333333,
+    "total_seats":980,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":288,
+    "calculated_ticket_prices":133.3333333,
+    "calculated_screens":1,
+    "average_2":133.3333333,
+    "source_of_information":"BookMyShow",
+    "notes":"Even though this article says it shut down, BMS is selling tickets for a movie right now : http://www.hindustantimes.com/delhi-news/central-delhi-s-iconic-single-screen-theatre-shiela-cinema-shuts-shop-after-56-years/story-64dCvo1kKC6IXTzTAoJ0QL.html",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4196,17.37651 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Alankar (Pratap Theatre): Langer House",
+    "average_ticket_price":100,
+    "total_seats":774,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":243,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ufo.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.44133000000001,17.39167 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Amba Theatre: Mehdipatnam",
+    "average_ticket_price":100,
+    "total_seats":64,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":64,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow",
+    "notes":"Could Not Confirm",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49338,17.43751 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Anjali Theatre: Secunderabad",
+    "average_ticket_price":70,
+    "total_seats":690,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":85,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.39703,17.49677 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Arjun 70MM: Kukatpally",
+    "average_ticket_price":100,
+    "total_seats":786,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":269,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5231,17.36117 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Ganga: Dilsukhnagar",
+    "average_ticket_price":85,
+    "total_seats":707,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Asian",
+    "calculated_seats":707,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":85,
+    "source_of_information":"BookMyShow",
+    "notes":"http://asiancinemas.in/locations.html",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.31221,17.50277 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Jyothi: RC Puram",
+    "average_ticket_price":90,
+    "total_seats":520,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Asian",
+    "calculated_seats":520,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow",
+    "notes":"http://asiancinemas.in/locations.html",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.45173,17.4922 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Sha: Chintal",
+    "average_ticket_price":85,
+    "total_seats":716,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Asian",
+    "calculated_seats":716,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":85,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.45173,17.4922 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Shahensha: Chintal",
+    "average_ticket_price":85,
+    "total_seats":380,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Asian",
+    "calculated_seats":380,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":85,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5231,17.36117 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Shiva: Dilsukhnagar",
+    "average_ticket_price":85,
+    "total_seats":554,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Asian",
+    "calculated_seats":554,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":85,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.43869000000001,17.311429999999998 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Swapna 35mm: Katedan",
+    "average_ticket_price":90,
+    "total_seats":272,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Asian",
+    "calculated_seats":175,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.43869000000001,17.311429999999998 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Swapna 70mm: Katedan",
+    "average_ticket_price":75,
+    "total_seats":512,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Asian",
+    "calculated_seats":512,
+    "calculated_ticket_prices":75,
+    "calculated_screens":1,
+    "average_2":75,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.44861,17.5122 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Bhujanga 70MM: Jeedimetla",
+    "average_ticket_price":65,
+    "total_seats":1311,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":199,
+    "calculated_ticket_prices":65,
+    "calculated_screens":1,
+    "average_2":65,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.38823000000001,17.44442 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"BR Hitech 70mm: Madhapur",
+    "average_ticket_price":80,
+    "total_seats":528,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":200,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49504,17.406270000000003 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Devi 70mm 4K & Dolby Atmos: RTC X Roads",
+    "average_ticket_price":118,
+    "total_seats":1200,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":239,
+    "calculated_ticket_prices":118,
+    "calculated_screens":1,
+    "average_2":118,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.41086,17.40324 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Galaxy Cinema: Toli Chowki",
+    "average_ticket_price":70,
+    "total_seats":704,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":186,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://yellowpages.fullhyderabad.com/galaxy-70mm-toli-chowki/toli-chowki/telephone-email-address-reviews/cinema-theatres-145-1.html",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.43435,17.45358 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Gokul 70MM: Erragadda",
+    "average_ticket_price":90,
+    "total_seats":1224,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":776,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53179,17.34507 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Indra: Karmanghat",
+    "average_ticket_price":80,
+    "total_seats":112,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":112,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow",
+    "notes":"Could Not Confirm",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.47971,17.47373 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Kalyani Movie Max: Bowenpally",
+    "average_ticket_price":70,
+    "total_seats":84,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":84,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.51865,17.3686 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Konark: Dilsukhnagar",
+    "average_ticket_price":80,
+    "total_seats":1026,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":390,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49632,17.38886 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Kumar Theatre: Kachiguda",
+    "average_ticket_price":90,
+    "total_seats":74,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":74,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.51120999999999,17.49476 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Lakshmi Kala Mandir: Alwal",
+    "average_ticket_price":70,
+    "total_seats":277,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":277,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4936,17.440479999999997 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Manju Cinema: Kalasiguda",
+    "average_ticket_price":70,
+    "total_seats":289,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":289,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.52665999999999,17.36796 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Megha Theatre: Dilsukhnagar",
+    "average_ticket_price":90,
+    "total_seats":795,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":795,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.45374,17.35587 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Metro Cinema: Bahadurpura",
+    "average_ticket_price":70,
+    "total_seats":100,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":100,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.47723,17.38586 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Mukta A2 Cinemas: Abids",
+    "average_ticket_price":90,
+    "total_seats":637,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Mukta A2",
+    "calculated_seats":637,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53179,17.34507 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Nagendra: Karmanghat",
+    "average_ticket_price":80,
+    "total_seats":711,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":120,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5133,17.494229999999998 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Nartaki Theatre: Alwal",
+    "average_ticket_price":70,
+    "total_seats":854,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":723,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4916,17.390629999999998 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Padmavati Cinema: Kachiguda",
+    "average_ticket_price":60,
+    "total_seats":490,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":392,
+    "calculated_ticket_prices":60,
+    "calculated_screens":1,
+    "average_2":60,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49856,17.43958 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Prashant Cinema: Secunderabad",
+    "average_ticket_price":80,
+    "total_seats":1048,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":88,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4549,17.39049 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Priya Theatre: Malleypally",
+    "average_ticket_price":80,
+    "total_seats":750,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":48,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53616,17.4513 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Raghavendra 35mm: Malkajgiri",
+    "average_ticket_price":70,
+    "total_seats":580,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":45,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53616,17.4513 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Raghavendra 70mm: Malkajgiri",
+    "average_ticket_price":70,
+    "total_seats":691,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":78,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53616,17.4513 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Raghavendra Mini: Malkajgiri",
+    "average_ticket_price":70,
+    "total_seats":385,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":43,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.52989000000001,17.36855 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Rajdhani 70mm: Dilsukhnagar",
+    "average_ticket_price":80,
+    "total_seats":1050,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":137,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.52736999999999,17.36897 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Rajdhani Deluxe Theatre: Dilsukhnagar",
+    "average_ticket_price":90,
+    "total_seats":628,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":44,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5603,17.396639999999998 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Rajyalakshmi 70mm: Uppal",
+    "average_ticket_price":55,
+    "total_seats":662,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":662,
+    "calculated_ticket_prices":55,
+    "calculated_screens":1,
+    "average_2":55,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.47678,17.38591 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Ramakrishna 70MM - Indra Cinemas: Abids",
+    "average_ticket_price":87.5,
+    "total_seats":724,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":724,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":87.5,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.44833,17.51207 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Ranga Theatre: Jeedimetla",
+    "average_ticket_price":80,
+    "total_seats":1329,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":80,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.26473,17.532120000000003 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Rukmini Cinema: Patancheru",
+    "average_ticket_price":70,
+    "total_seats":956,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":136,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.35974,17.49551 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sai Ranga: Miyapur",
+    "average_ticket_price":76.66666667,
+    "total_seats":1179,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":999,
+    "calculated_ticket_prices":76.66666667,
+    "calculated_screens":1,
+    "average_2":76.66666667,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.57603,17.331210000000002 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sampoorna 70mm: Vanasthalipuram",
+    "average_ticket_price":85,
+    "total_seats":865,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":114,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":85,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49726,17.40691 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sandhya 35mm: RTC X Roads",
+    "average_ticket_price":100,
+    "total_seats":1055,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":332,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49726,17.40691 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sandhya 70mm: RTC X Roads",
+    "average_ticket_price":100,
+    "total_seats":1323,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":945,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.47569,17.391029999999997 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Santosh Cinemas: Abids",
+    "average_ticket_price":90,
+    "total_seats":812,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":546,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.47569,17.391029999999997 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sapna Cinemas: Abids",
+    "average_ticket_price":80,
+    "total_seats":552,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":243,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4968,17.40803 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sapthagiri Theatre: RTC X Roads",
+    "average_ticket_price":90,
+    "total_seats":1150,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":172,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.44877,17.43715 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Satyam Theatre: Ameerpet",
+    "average_ticket_price":60,
+    "total_seats":1243,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":576,
+    "calculated_ticket_prices":60,
+    "calculated_screens":1,
+    "average_2":60,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.51066999999999,17.511470000000003 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Select Talkies: Bolaram",
+    "average_ticket_price":60,
+    "total_seats":566,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":101,
+    "calculated_ticket_prices":60,
+    "calculated_screens":1,
+    "average_2":60,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.46363000000001,17.40693 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sensation Insomnia: Khairatabad",
+    "average_ticket_price":80,
+    "total_seats":555,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":306,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.46361,17.40714 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sensation Sunshine: Khairatabad",
+    "average_ticket_price":80,
+    "total_seats":850,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":514,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.46565,17.34158 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Shama Cinema: Hyderabad",
+    "average_ticket_price":46.66666667,
+    "total_seats":712,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":569,
+    "calculated_ticket_prices":46.66666667,
+    "calculated_screens":1,
+    "average_2":46.66666667,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.48986,17.39622 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Shanti Theatre: Narayanaguda",
+    "average_ticket_price":86.66666667,
+    "total_seats":1035,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":440,
+    "calculated_ticket_prices":86.66666667,
+    "calculated_screens":1,
+    "average_2":86.66666667,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.55533,17.48324 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sharada 70mm: Kapra",
+    "average_ticket_price":70,
+    "total_seats":861,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":104,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.39707,17.4966 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Shiva Parvathi Cinema: Kukatpally",
+    "average_ticket_price":100,
+    "total_seats":1116,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":100,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4573,17.35449 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sree Rama Theatre: Bahadurpura",
+    "average_ticket_price":80,
+    "total_seats":796,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":184,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.51578,17.39247 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sree Ramana 70MM: Amberpet",
+    "average_ticket_price":100,
+    "total_seats":1111,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":333,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.42939,17.46784 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sree Ramulu 70mm: Moosapet",
+    "average_ticket_price":70,
+    "total_seats":849,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":196,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.43474,17.54458 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sree Sai Puja: Suraram",
+    "average_ticket_price":100,
+    "total_seats":864,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":202,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49944,17.416339999999998 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sree Sai Raja Theatre: Musheerabad",
+    "average_ticket_price":70,
+    "total_seats":777,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":100,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.56788,17.40084 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sri Krishna 70MM: Uppal",
+    "average_ticket_price":70,
+    "total_seats":939,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":70,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53156,17.34575 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sri Lakshmi Deluxe: Karmanghat",
+    "average_ticket_price":80,
+    "total_seats":629,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":134,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49604000000001,17.40747 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sri Mayuri Theatre: RTC X Roads",
+    "average_ticket_price":86.66666667,
+    "total_seats":941,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":753,
+    "calculated_ticket_prices":86.66666667,
+    "calculated_screens":1,
+    "average_2":86.66666667,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5354,17.44632 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sri Sai Ram Theatre: Malkajgiri",
+    "average_ticket_price":55,
+    "total_seats":700,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":586,
+    "calculated_ticket_prices":55,
+    "calculated_screens":1,
+    "average_2":55,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.51297,17.43143 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sridevi Cinema: Chilakalguda",
+    "average_ticket_price":80,
+    "total_seats":903,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":62,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.56853000000001,17.40106 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Srinivasa Talkies: Uppal",
+    "average_ticket_price":60,
+    "total_seats":809,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":646,
+    "calculated_ticket_prices":60,
+    "calculated_screens":1,
+    "average_2":60,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49503,17.40646 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sudarshan 35mm 4k & Dolby Atmos: RTC X Roads",
+    "average_ticket_price":118,
+    "total_seats":1216,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":189,
+    "calculated_ticket_prices":118,
+    "calculated_screens":1,
+    "average_2":118,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.57353,17.3358 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Sushma Cinema: Vanasthalipuram",
+    "average_ticket_price":100,
+    "total_seats":1022,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":84,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.42768000000001,17.36645 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"SVC Cinemas Eeshwar: Attapur",
+    "average_ticket_price":100,
+    "total_seats":645,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":78,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53973,17.36944 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"SVC Mahalakshmi Screen 1: Kothapet",
+    "average_ticket_price":100,
+    "total_seats":659,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":174,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53973,17.36944 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"SVC Mahalakshmi Screen 2: Kothapet",
+    "average_ticket_price":100,
+    "total_seats":319,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":129,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.2866,17.51352 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"SVC Sangeetha Theatre: RC Puram",
+    "average_ticket_price":100,
+    "total_seats":590,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":72,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.56276,17.47652 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"SVR's Siva Sakthi Theatre: Kapra",
+    "average_ticket_price":70,
+    "total_seats":313,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":90,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":70,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.48796,17.39065 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Tarakarama Cineplex: Kachiguda",
+    "average_ticket_price":90,
+    "total_seats":980,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":785,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49246,17.44724 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Tivoli Cinema: Extreme",
+    "average_ticket_price":118,
+    "total_seats":912,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":759,
+    "calculated_ticket_prices":118,
+    "calculated_screens":1,
+    "average_2":118,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.52345,17.36799 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Venkatadri Cinema 70MM: Dilsukhnagar",
+    "average_ticket_price":90,
+    "total_seats":1263,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":362,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":90,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49141,17.39069 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Venkataramana Cinema: Kachiguda",
+    "average_ticket_price":60,
+    "total_seats":697,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":539,
+    "calculated_ticket_prices":60,
+    "calculated_screens":1,
+    "average_2":60,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.41913000000001,17.45421 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Vijetha 70MM: Borabanda",
+    "average_ticket_price":80,
+    "total_seats":786,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":105,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.45124,17.46361 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Vimal 70mm: Balanagar",
+    "average_ticket_price":80,
+    "total_seats":1010,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":108,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.56577,17.33902 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Vishnu Cinemas A/C DTS: Vanasthalipuram",
+    "average_ticket_price":85,
+    "total_seats":935,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":734,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":85,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.39703,17.49677 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Viswanath 70MM Theater: Kukatpally",
+    "average_ticket_price":80,
+    "total_seats":1204,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":902,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.55238,17.42889 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Vyjayanthi Cinema: Nacharam",
+    "average_ticket_price":100,
+    "total_seats":711,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":253,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":100,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.50888,17.34657 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Yadagiri Theatre: Santosh Nagar",
+    "average_ticket_price":75,
+    "total_seats":1076,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":177,
+    "calculated_ticket_prices":75,
+    "calculated_screens":1,
+    "average_2":75,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.2826,9.981755 ]
+    },
+    "properties": {
+    "city":"Kochi",
+    "theatre_name":"Padma Cinema Screen 1: Ernakulam",
+    "average_ticket_price":105,
+    "total_seats":324,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":324,
+    "calculated_ticket_prices":105,
+    "calculated_screens":1,
+    "average_2":105,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.2826,9.981755 ]
+    },
+    "properties": {
+    "city":"Kochi",
+    "theatre_name":"Padma Cinema Screen 2: Ernakulam",
+    "average_ticket_price":110,
+    "total_seats":98,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":98,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.27683,9.979525 ]
+    },
+    "properties": {
+    "city":"Kochi",
+    "theatre_name":"Sridar Cinemas: Ernakulam",
+    "average_ticket_price":114,
+    "total_seats":530,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":310,
+    "calculated_ticket_prices":114,
+    "calculated_screens":1,
+    "average_2":114,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.snehasallapam.com/forum2/12295-theater-capacity-ticket-rates.html",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.35951999999999,22.52575 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"11D Adventureplex: Quest Mall",
+    "average_ticket_price":250,
+    "total_seats":30,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":50,
+    "calculated_ticket_prices":250,
+    "calculated_screens":5,
+    "average_2":250,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://webcache.googleusercontent.com/search?q=cache:unx7Inl69MQJ:https://www.telegraphindia.com/1140313/jsp/t2/story_18073735.jsp+&cd=6&hl=en&ct=clnk&gl=us",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.4006,22.577579999999998 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"7D Adventure Plex: Mani Square Mall",
+    "average_ticket_price":200,
+    "total_seats":32,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":40,
+    "calculated_ticket_prices":200,
+    "calculated_screens":4,
+    "average_2":200,
+    "source_of_information":"BookMyShow",
+    "notes":"https://www.indiamart.com/7dadventure-plex/showtimes-of-7d-adventure-plex-mani-square-mall.html",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.31636999999999,22.49382 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Asoka Cinema: Behala",
+    "average_ticket_price":98.16666667,
+    "total_seats":867,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":157,
+    "calculated_ticket_prices":105,
+    "calculated_screens":1,
+    "average_2":99.875,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.34657,22.52712 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Indira Cinema: Kolkata",
+    "average_ticket_price":80,
+    "total_seats":733,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":130,
+    "calculated_ticket_prices":80,
+    "calculated_screens":2,
+    "average_2":80,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.35068000000001,22.51115 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Menoka Cinema: Kolkata",
+    "average_ticket_price":130,
+    "total_seats":790,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":233,
+    "calculated_ticket_prices":130,
+    "calculated_screens":1,
+    "average_2":130,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.37205,22.59727 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Mitra Cinema Hall: Kolkata",
+    "average_ticket_price":80,
+    "total_seats":1146,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":111,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ri.pdf",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.34881,22.500999999999998 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Navina Cinema: Tollygunge",
+    "average_ticket_price":110.13333329999999,
+    "total_seats":983,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":352,
+    "calculated_ticket_prices":113.33333329999999,
+    "calculated_screens":1,
+    "average_2":110.13333329999999,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://thecalcuttagirl.com/10-awesome-single-screen-cinema-halls-of-calcutta/",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.35195999999999,22.5668 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Paradise Cinema: Kolkata",
+    "average_ticket_price":110,
+    "total_seats":1063,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":70,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.36829,22.564870000000003 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Prachi Cinema: Kolkata",
+    "average_ticket_price":80,
+    "total_seats":784,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":97,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.35438,22.51794 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Priya Cinema: Rashbehari Avenue",
+    "average_ticket_price":152,
+    "total_seats":793,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":793,
+    "calculated_ticket_prices":152,
+    "calculated_screens":1,
+    "average_2":152,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.35266,22.562839999999998 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Regal Cinema: Kolkata",
+    "average_ticket_price":80,
+    "total_seats":500,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":38,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":80,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.35205,22.56229 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Roxy Talkies: Kolkata",
+    "average_ticket_price":85,
+    "total_seats":730,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":40,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":85,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.85335,19.10867 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Bahar Cinema: Vile Parle (E)",
+    "average_ticket_price":190,
+    "total_seats":299,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":299,
+    "calculated_ticket_prices":190,
+    "calculated_screens":1,
+    "average_2":190,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.81875,18.954639999999998 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Central Plaza: Girgaon",
+    "average_ticket_price":171.33333330000002,
+    "total_seats":517,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":517,
+    "calculated_ticket_prices":106.66666670000001,
+    "calculated_screens":1,
+    "average_2":166.19047619999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8269,19.1147 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Chandan Cinema: Juhu",
+    "average_ticket_price":155.75,
+    "total_seats":587,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":587,
+    "calculated_ticket_prices":124.5,
+    "calculated_screens":1,
+    "average_2":152.625,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84388,19.013360000000002 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Chitra Cinema: Dadar (E)",
+    "average_ticket_price":128.3333333,
+    "total_seats":635,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":539,
+    "calculated_ticket_prices":120,
+    "calculated_screens":1,
+    "average_2":127.5,
+    "source_of_information":"BookMyShow, mediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.85641,19.116329999999998 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Cinemax: Andheri (E)",
+    "average_ticket_price":118,
+    "total_seats":362,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Cinemax",
+    "calculated_seats":362,
+    "calculated_ticket_prices":118,
+    "calculated_screens":1,
+    "average_2":118,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84491,19.15758 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Cinemax: Goregaon (W)",
+    "average_ticket_price":104.66666670000001,
+    "total_seats":649,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Cinemax",
+    "calculated_seats":649,
+    "calculated_ticket_prices":80,
+    "calculated_screens":1,
+    "average_2":104.8,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84139,19.03054 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Citylight Cinema: Mahim",
+    "average_ticket_price":181.25,
+    "total_seats":252,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":252,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":175,
+    "source_of_information":"BookMyShow",
+    "notes":"http://www.citylightcinema.com/",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84208000000001,19.00916 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Gold Cinema: Dadar (E)",
+    "average_ticket_price":155,
+    "total_seats":245,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Gold Cinema",
+    "calculated_seats":245,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":153,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83912,19.089579999999998 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Gold Cinema: Santacruz (W)",
+    "average_ticket_price":205.33333330000002,
+    "total_seats":420,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Gold Cinema",
+    "calculated_seats":420,
+    "calculated_ticket_prices":118,
+    "calculated_screens":1,
+    "average_2":201.6,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.86494,19.23479 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Gold Cinema: Sona Borivali (E)",
+    "average_ticket_price":151.66666669999998,
+    "total_seats":259,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Gold Cinema",
+    "calculated_seats":259,
+    "calculated_ticket_prices":96.66666667,
+    "calculated_screens":1,
+    "average_2":142.66666669999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84133,19.0199 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"INOX: Nakshatra Mall, Dadar (W)",
+    "average_ticket_price":167.33333330000002,
+    "total_seats":272,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Inox",
+    "calculated_seats":272,
+    "calculated_ticket_prices":126,
+    "calculated_screens":1,
+    "average_2":163.2,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.87165,19.21198 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"INOX: Thakur Movie, Kandivali (E)",
+    "average_ticket_price":126.91666670000001,
+    "total_seats":410,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Inox",
+    "calculated_seats":410,
+    "calculated_ticket_prices":100,
+    "calculated_screens":1,
+    "average_2":128.4166667,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84753,19.18786 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Kasturba Cinema: Malad",
+    "average_ticket_price":112.2222222,
+    "total_seats":350,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":350,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83383,19.05605 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Le Reve (Globus): Bandra (W)",
+    "average_ticket_price":195.5,
+    "total_seats":259,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":259,
+    "calculated_ticket_prices":115,
+    "calculated_screens":1,
+    "average_2":192.1428571,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.82727,18.94143 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Liberty Cinema: Marine Lines",
+    "average_ticket_price":145,
+    "total_seats":1115,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":1115,
+    "calculated_ticket_prices":140,
+    "calculated_screens":1,
+    "average_2":145,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.82214,18.97133 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Maratha Mandir: Mumbai Central",
+    "average_ticket_price":60,
+    "total_seats":1107,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":1107,
+    "calculated_ticket_prices":20,
+    "calculated_screens":1,
+    "average_2":68,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.87241999999999,19.20909 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Miraj Thakur Cinemas: Kandivali (E)",
+    "average_ticket_price":196.875,
+    "total_seats":668,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Miraj Cinema",
+    "calculated_seats":668,
+    "calculated_ticket_prices":120,
+    "calculated_screens":1,
+    "average_2":186.5625,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8436,19.0286 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Movietime Star City: Matunga (W)",
+    "average_ticket_price":172.375,
+    "total_seats":366,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Movietime",
+    "calculated_seats":366,
+    "calculated_ticket_prices":125,
+    "calculated_screens":1,
+    "average_2":168.16666669999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83685,19.06099 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Movietime Suburbia: Bandra (W)",
+    "average_ticket_price":458.9,
+    "total_seats":189,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Movietime",
+    "calculated_seats":176,
+    "calculated_ticket_prices":425,
+    "calculated_screens":1,
+    "average_2":458.16666669999995,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.86307,19.25194 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Movietime: Dahisar (E)",
+    "average_ticket_price":140.5555556,
+    "total_seats":354,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Movietime",
+    "calculated_seats":354,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":138.33333330000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83874,19.05546 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Nandi Cinema: National Library Road",
+    "average_ticket_price":65,
+    "total_seats":762,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":762,
+    "calculated_ticket_prices":65,
+    "calculated_screens":1,
+    "average_2":65,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.89922,19.06247 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Natraj Cinema: Chembur",
+    "average_ticket_price":65,
+    "total_seats":746,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":746,
+    "calculated_ticket_prices":65,
+    "calculated_screens":1,
+    "average_2":65,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83344,18.93768 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"New Excelsior Mukta A2 Cinemas: Fort",
+    "average_ticket_price":160.25,
+    "total_seats":596,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":596,
+    "calculated_ticket_prices":118,
+    "calculated_screens":1,
+    "average_2":155.5,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84255999999999,19.0372 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Paradise E-Square Cinema: Mahim",
+    "average_ticket_price":102.29166670000001,
+    "total_seats":502,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":502,
+    "calculated_ticket_prices":85,
+    "calculated_screens":1,
+    "average_2":100.5625,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84276,19.02185 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Plaza Cinema: Dadar",
+    "average_ticket_price":227.5,
+    "total_seats":691,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":691,
+    "calculated_ticket_prices":227.5,
+    "calculated_screens":1,
+    "average_2":227.5,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83809000000001,18.96089 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Premier Gold: Dongri",
+    "average_ticket_price":110.83333329999999,
+    "total_seats":330,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":330,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84061,19.00752 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Premiere Cinema: Dadar (E)",
+    "average_ticket_price":132.5,
+    "total_seats":465,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":465,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":132.5,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.82406999999999,18.9952 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Phoenix, Kotak IMAX, Lower Parel",
+    "average_ticket_price":267.3333333,
+    "total_seats":444,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":444,
+    "calculated_ticket_prices":150,
+    "calculated_screens":1,
+    "average_2":267.3333333,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8511,19.20243 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Sona Shopping Centre, Kandivali (W)",
+    "average_ticket_price":125.41666670000001,
+    "total_seats":287,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"PVR",
+    "calculated_seats":287,
+    "calculated_ticket_prices":90,
+    "calculated_screens":1,
+    "average_2":124,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83243,18.92472 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Regal Cinema: Colaba",
+    "average_ticket_price":166,
+    "total_seats":1178,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":1178,
+    "calculated_ticket_prices":166,
+    "calculated_screens":1,
+    "average_2":166,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.85096999999999,19.06131 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"RNA Play Cinema: Kalanagar, Bandra (E)",
+    "average_ticket_price":280,
+    "total_seats":195,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":195,
+    "calculated_ticket_prices":200,
+    "calculated_screens":1,
+    "average_2":283,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.81667,18.95486 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Roxy Cinema: Charni Road",
+    "average_ticket_price":175.33333330000002,
+    "total_seats":343,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":343,
+    "calculated_ticket_prices":70,
+    "calculated_screens":1,
+    "average_2":170,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.85168,19.18976 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Sangeeta Cineplex: Malad",
+    "average_ticket_price":128.45,
+    "total_seats":178,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":178,
+    "calculated_ticket_prices":99,
+    "calculated_screens":1,
+    "average_2":131.7272727,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84666,19.01385 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Sharada Cinema: Dadar (E)",
+    "average_ticket_price":55,
+    "total_seats":1104,
+    "no_screens":1,
+    "type":"Single Screen",
+    "theatre_chain":"Independent",
+    "calculated_seats":1060,
+    "calculated_ticket_prices":55,
+    "calculated_screens":1,
+    "average_2":55,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":1
+    }
+  }
+]
+}

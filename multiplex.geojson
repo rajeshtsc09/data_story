@@ -1,0 +1,3915 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.52938,23.02494 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"AB Miniplex: Shivranjini Cross Road, Satellite",
+    "average_ticket_price":125.6190476,
+    "total_seats":302,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":302,
+    "calculated_ticket_prices":118,
+    "calculated_screens":3,
+    "average_2":124,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.53093,23.047079999999998 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Carnival: Himalaya Mall",
+    "average_ticket_price":189.0509259,
+    "total_seats":1110,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":1106,
+    "calculated_ticket_prices":126.93333329999999,
+    "calculated_screens":5,
+    "average_2":178.1166667,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.50776,23.02573 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Cinemax: Dev Arc, Ahmedabad",
+    "average_ticket_price":176.4351852,
+    "total_seats":1047,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1047,
+    "calculated_ticket_prices":123.33333329999999,
+    "calculated_screens":4,
+    "average_2":173.5802469,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.5277,23.07968 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Cinemax: Red Carpet, Ahmedabad",
+    "average_ticket_price":152.0524691,
+    "total_seats":991,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":991,
+    "calculated_ticket_prices":107.5,
+    "calculated_screens":4,
+    "average_2":154.375,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.57103000000001,23.031879999999997 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Cinemax: Shiv, Ahmedabad",
+    "average_ticket_price":176.27777780000002,
+    "total_seats":637,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":637,
+    "calculated_ticket_prices":138.33333330000002,
+    "calculated_screens":3,
+    "average_2":172.8125,
+    "source_of_information":"BookMyShow",
+    "notes":"https://en.wikipedia.org/wiki/CineMAX",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.53199000000001,23.03952 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Cinepolis: Alpha One Mall, Ahmedabad",
+    "average_ticket_price":197.9494949,
+    "total_seats":1136,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":1219,
+    "calculated_ticket_prices":140,
+    "calculated_screens":6,
+    "average_2":195,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.52991999999999,23.01568 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"City Gold Satellite: Ahmedabad",
+    "average_ticket_price":156.14583330000002,
+    "total_seats":371,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"City Gold",
+    "calculated_seats":494,
+    "calculated_ticket_prices":118,
+    "calculated_screens":4,
+    "average_2":157.83333330000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.56999,23.0319 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"City Gold: Ashram Road",
+    "average_ticket_price":159.9814815,
+    "total_seats":1313,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"City Gold",
+    "calculated_seats":1287,
+    "calculated_ticket_prices":110,
+    "calculated_screens":5,
+    "average_2":161.66666669999998,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.61513000000001,23.03743 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"City Gold: Bapunagar",
+    "average_ticket_price":101.16666670000001,
+    "total_seats":419,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"City Gold",
+    "calculated_seats":438,
+    "calculated_ticket_prices":85,
+    "calculated_screens":4,
+    "average_2":100.8695652,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.47856,23.02869 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"City Gold: Bopal",
+    "average_ticket_price":152.3571429,
+    "total_seats":462,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"City Gold",
+    "calculated_seats":462,
+    "calculated_ticket_prices":100,
+    "calculated_screens":4,
+    "average_2":156.81818180000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.59319,23.092029999999998 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"City Gold: Motera",
+    "average_ticket_price":111.5,
+    "total_seats":728,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"City Gold",
+    "calculated_seats":728,
+    "calculated_ticket_prices":90,
+    "calculated_screens":2,
+    "average_2":104,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.64998,23.07253 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Devi Multiplex: Naroda",
+    "average_ticket_price":94.77777778,
+    "total_seats":804,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1536,
+    "calculated_ticket_prices":80,
+    "calculated_screens":3,
+    "average_2":94.58333333,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.50858000000001,23.02873 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"K Sera Sera: SG Highway",
+    "average_ticket_price":155.20833330000002,
+    "total_seats":152,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"K Sera Sera",
+    "calculated_seats":152,
+    "calculated_ticket_prices":125,
+    "calculated_screens":2,
+    "average_2":156.66666669999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.64335,23.05369 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Miraj Cinemas Cine Pride: Krishna Nagar",
+    "average_ticket_price":105.5,
+    "total_seats":829,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Miraj Cinema",
+    "calculated_seats":829,
+    "calculated_ticket_prices":73.75,
+    "calculated_screens":4,
+    "average_2":108.75,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.67304,23.07891 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Miraj Cinemas: Vitthal Plaza, New Naroda",
+    "average_ticket_price":150.45833330000002,
+    "total_seats":372,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Miraj Cinema",
+    "calculated_seats":372,
+    "calculated_ticket_prices":103.33333329999999,
+    "calculated_screens":3,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"http://www.indiantelevision.com/movies/hindi/miraj-cinemas-adds-four-multiplexes-in-15-days-inches-closer-to-100-plan-170428",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.5964,23.014670000000002 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Miraj City Pulse: Ahmedabad",
+    "average_ticket_price":158.7590909,
+    "total_seats":936,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Miraj Cinema",
+    "calculated_seats":936,
+    "calculated_ticket_prices":110,
+    "calculated_screens":6,
+    "average_2":161.30434780000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.50995999999999,23.02655 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Mukta A2 Cinemas: Gulmohar Park Mall, Satellite Rd",
+    "average_ticket_price":151.27083330000002,
+    "total_seats":404,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Mukta A2",
+    "calculated_seats":343,
+    "calculated_ticket_prices":110.5,
+    "calculated_screens":4,
+    "average_2":155.08,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.51621,23.04884 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"PVR: Acropolis, Ahmedabad",
+    "average_ticket_price":232.1338384,
+    "total_seats":1343,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1343,
+    "calculated_ticket_prices":157.22222219999998,
+    "calculated_screens":6,
+    "average_2":231.38888889999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.57602,23.0685 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"PVR: Arved Transcube, Ahmedabad",
+    "average_ticket_price":167.82175930000002,
+    "total_seats":1404,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1498,
+    "calculated_ticket_prices":137.8571429,
+    "calculated_screens":7,
+    "average_2":167.6086957,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"http://www.indiainfoline.com/article/news-top-story/pvr-pvr-all-set-to-open-its-sixth-multiplex-in-ahmedabad-117012500436_1.html",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.59521,23.102729999999998 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"PVR: Motera, Ahmedabad",
+    "average_ticket_price":154.33333330000002,
+    "total_seats":1102,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1141,
+    "calculated_ticket_prices":130,
+    "calculated_screens":4,
+    "average_2":154.46428569999998,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://deshgujarat.com/2014/07/03/pvr-opens-another-multiplex-in-ahmedabad-at-motera/",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.66758,23.05089 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Rajhans Cinemas: Nikol",
+    "average_ticket_price":114.50555559999998,
+    "total_seats":741,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Rajhans",
+    "calculated_seats":741,
+    "calculated_ticket_prices":70,
+    "calculated_screens":3,
+    "average_2":119.5614035,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.53126999999999,23.06663 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Rajhans Cinemas: Satadhar",
+    "average_ticket_price":124.22962959999998,
+    "total_seats":1080,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Rajhans",
+    "calculated_seats":1081,
+    "calculated_ticket_prices":87.5,
+    "calculated_screens":4,
+    "average_2":127.52,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.rajhanscinemas.com/cinema.aspx",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.63548,22.99858 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Revolution Multiplex: Ahmedabad",
+    "average_ticket_price":148.75,
+    "total_seats":423,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":423,
+    "calculated_ticket_prices":148.75,
+    "calculated_screens":4,
+    "average_2":148.93333330000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.55651,23.02435 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Time Cinema: CG Road, Ahmedabad",
+    "average_ticket_price":176.45833330000002,
+    "total_seats":372,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":372,
+    "calculated_ticket_prices":145,
+    "calculated_screens":4,
+    "average_2":180,
+    "source_of_information":"BookMyShow",
+    "notes":"http://deshgujarat.com/2016/12/28/time-cinema-brings-first-multiplex-to-cg-road-in-ahmedabad/",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.50745,23.02457 ]
+    },
+    "properties": {
+    "city":"Ahmedabad",
+    "theatre_name":"Wide Angle: Ahmedabad",
+    "average_ticket_price":166.1531987,
+    "total_seats":1400,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":185,
+    "calculated_ticket_prices":153.75,
+    "calculated_screens":4,
+    "average_2":182.5555556,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.wideangleindia.co.in/AboutUs/AboutUs",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.51825,13.04075 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Carnival: Rockline Mall",
+    "average_ticket_price":179.4444444,
+    "total_seats":1011,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":732,
+    "calculated_ticket_prices":172.5,
+    "calculated_screens":4,
+    "average_2":181.66666669999998,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.56201999999999,12.96579 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Cinepolis: Binnypet Mall",
+    "average_ticket_price":220.53741499999998,
+    "total_seats":1580,
+    "no_screens":8,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":1521,
+    "calculated_ticket_prices":178.125,
+    "calculated_screens":8,
+    "average_2":231.4285714,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.63265,13.00121 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Cinepolis: Orion East Mall, Banaswadi",
+    "average_ticket_price":244.5454545,
+    "total_seats":1097,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":1119,
+    "calculated_ticket_prices":264,
+    "calculated_screens":5,
+    "average_2":251.92307689999998,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.59581999999999,12.876 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Cinepolis: Royal Meenakshi Mall",
+    "average_ticket_price":271,
+    "total_seats":1344,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":1091,
+    "calculated_ticket_prices":230,
+    "calculated_screens":7,
+    "average_2":272.1621622,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.59477,12.9882 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Fun Cinemas: Sigma Mall, Bengaluru",
+    "average_ticket_price":180.3571429,
+    "total_seats":985,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":745,
+    "calculated_ticket_prices":145,
+    "calculated_screens":3,
+    "average_2":179.6875,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"http://www.indiaretailing.com/2007/10/12/retail/fun-cinemas-open-first-outlet-in-bangalore-at-sigma-mall/",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.51760999999999,12.935310000000001 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Gopalan Cinemas: Arcade Mall, Mysore Road",
+    "average_ticket_price":250.3846154,
+    "total_seats":1019,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Gopalan Cinemas",
+    "calculated_seats":1019,
+    "calculated_ticket_prices":206.66666669999998,
+    "calculated_screens":3,
+    "average_2":247.0588235,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5994,12.914439999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Gopalan Cinemas: Bannerghatta Road",
+    "average_ticket_price":261.1805556,
+    "total_seats":852,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Gopalan Cinemas",
+    "calculated_seats":849,
+    "calculated_ticket_prices":230,
+    "calculated_screens":3,
+    "average_2":266.8421053,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.66396999999999,12.993360000000001 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Gopalan Grand Mall: Old Madras Road",
+    "average_ticket_price":256.1111111,
+    "total_seats":1030,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Gopalan Cinemas",
+    "calculated_seats":996,
+    "calculated_ticket_prices":235,
+    "calculated_screens":4,
+    "average_2":264.3478261,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.66188000000001,12.992989999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Gopalan Miniplex: Signature Mall, Old Madras Road",
+    "average_ticket_price":260.38461540000003,
+    "total_seats":157,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Gopalan Cinemas",
+    "calculated_seats":222,
+    "calculated_ticket_prices":220,
+    "calculated_screens":3,
+    "average_2":262.77777779999997,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69905,12.9519 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"Innovative Multiplex: Marathahalli",
+    "average_ticket_price":180,
+    "total_seats":1406,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1406,
+    "calculated_ticket_prices":187.5,
+    "calculated_screens":4,
+    "average_2":186.90476189999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.62128,12.973239999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"INOX Lido: Off MG Road, Ulsoor",
+    "average_ticket_price":338.4166667,
+    "total_seats":1259,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1259,
+    "calculated_ticket_prices":271,
+    "calculated_screens":5,
+    "average_2":338.6956522,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.71794,12.96623 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"INOX: Brookefield Mall",
+    "average_ticket_price":270.9259259,
+    "total_seats":338,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":324,
+    "calculated_ticket_prices":243.33333330000002,
+    "calculated_screens":3,
+    "average_2":270,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.59241,12.9164 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"INOX: Central, JP Nagar, Mantri Junction",
+    "average_ticket_price":343.03472220000003,
+    "total_seats":1118,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1057,
+    "calculated_ticket_prices":266.25,
+    "calculated_screens":4,
+    "average_2":337.9545455,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.74789,12.9595 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"INOX: Forum Neighbourhood Mall, Whitefield",
+    "average_ticket_price":301.36363639999996,
+    "total_seats":725,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":725,
+    "calculated_ticket_prices":234,
+    "calculated_screens":5,
+    "average_2":304.64285710000007,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.60943,12.970089999999999 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"INOX: Garuda Mall, Magrath Road",
+    "average_ticket_price":337.12121210000004,
+    "total_seats":1103,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1041,
+    "calculated_ticket_prices":254,
+    "calculated_screens":5,
+    "average_2":334.2857143,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.59123000000001,12.92906 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"INOX: Garuda Swagath Mall, Jayanagar",
+    "average_ticket_price":285.55555560000005,
+    "total_seats":793,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":773,
+    "calculated_ticket_prices":230,
+    "calculated_screens":3,
+    "average_2":281.25,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5703,12.99216 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"INOX: Mantri Square, Malleshwaram",
+    "average_ticket_price":399.0611111,
+    "total_seats":1497,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1418,
+    "calculated_ticket_prices":268,
+    "calculated_screens":5,
+    "average_2":395.8064516,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69319,12.97991 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Arena Mahadevapura, Bengaluru",
+    "average_ticket_price":233.5353535,
+    "total_seats":1084,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1355,
+    "calculated_ticket_prices":214.28571430000002,
+    "calculated_screens":7,
+    "average_2":243.01075269999998,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.6113,12.93463 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Forum, Bengaluru",
+    "average_ticket_price":286.9333333,
+    "total_seats":1590,
+    "no_screens":10,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1526,
+    "calculated_ticket_prices":261.25,
+    "calculated_screens":8,
+    "average_2":290.7142857,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69573000000001,12.99725 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Market City, Bengaluru",
+    "average_ticket_price":306.2100122,
+    "total_seats":1106,
+    "no_screens":9,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1466,
+    "calculated_ticket_prices":281.8518519,
+    "calculated_screens":9,
+    "average_2":316.6269841,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.62658,13.045160000000001 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: MSR Elements Mall, Bengaluru",
+    "average_ticket_price":288.0883838,
+    "total_seats":1383,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1251,
+    "calculated_ticket_prices":265.7142857,
+    "calculated_screens":7,
+    "average_2":291.0185185,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.55509,13.011 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Orion, Rajajinagar",
+    "average_ticket_price":285.3444444,
+    "total_seats":2714,
+    "no_screens":8,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":2513,
+    "calculated_ticket_prices":231.66666669999998,
+    "calculated_screens":8,
+    "average_2":286.6666667,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"Media Ant Number  - BMS Orion Gold Number",
+    "no_screens_1":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.67528,12.92676 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Soul Spirit Bellandur, Bengaluru",
+    "average_ticket_price":290.8585859,
+    "total_seats":1084,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":885,
+    "calculated_ticket_prices":240,
+    "calculated_screens":4,
+    "average_2":300.3174603,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.54897,13.02414 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: Vaishnavi Sapphire Mall, Bengaluru",
+    "average_ticket_price":222.13636359999998,
+    "total_seats":1058,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1058,
+    "calculated_ticket_prices":197.08333330000002,
+    "calculated_screens":6,
+    "average_2":221.37096769999997,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69526,12.99651 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: VR Gold, Bengaluru",
+    "average_ticket_price":697.025,
+    "total_seats":1,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":196,
+    "calculated_ticket_prices":580,
+    "calculated_screens":5,
+    "average_2":694.2105263,
+    "source_of_information":"BookMyShow",
+    "notes":"http://economictimes.indiatimes.com/industry/media/entertainment/media/pvr-launches-9-screen-multiplex-largest-gold-class-and-imax-in-whitefield/articleshow/50355485.cms",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.69526,12.99651 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"PVR: VR, Bengaluru",
+    "average_ticket_price":257.2,
+    "total_seats":932,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":932,
+    "calculated_ticket_prices":240,
+    "calculated_screens":4,
+    "average_2":260.4761905,
+    "source_of_information":"BookMyShow",
+    "notes":"Inference from link above",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.55171,12.97345 ]
+    },
+    "properties": {
+    "city":"Bangalore",
+    "theatre_name":"The Cinema GT World: Magadi Rd, Bengaluru",
+    "average_ticket_price":195.83333330000002,
+    "total_seats":1155,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1155,
+    "calculated_ticket_prices":203.5,
+    "calculated_screens":5,
+    "average_2":198.9,
+    "source_of_information":"BookMyShow",
+    "notes":"https://www.thequint.com/entertainment/chennais-sathyam-opens-the-cinema-for-bengalurus-cine-goers",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.24809,13.085999999999999 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"Abirami Cinemas: Chennai",
+    "average_ticket_price":113.58333329999999,
+    "total_seats":1656,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1656,
+    "calculated_ticket_prices":113.58333329999999,
+    "calculated_screens":4,
+    "average_2":113.58333329999999,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.24485,13.04745 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"AGS Cinemas: T. Nagar",
+    "average_ticket_price":82.7,
+    "total_seats":884,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"AGS Cinemas",
+    "calculated_seats":884,
+    "calculated_ticket_prices":82.7,
+    "calculated_screens":4,
+    "average_2":82.7,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.209,13.10471 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"AGS Cinemas: Villivakkam",
+    "average_ticket_price":82.7,
+    "total_seats":1473,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"AGS Cinemas",
+    "calculated_seats":1473,
+    "calculated_ticket_prices":82.7,
+    "calculated_screens":5,
+    "average_2":82.7,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.16108,13.03374 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"GK Cinemas 2K Dolby Atmos: Porur",
+    "average_ticket_price":116.19,
+    "total_seats":557,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":557,
+    "calculated_ticket_prices":116.19,
+    "calculated_screens":2,
+    "average_2":116.19,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.19036,13.04689 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"INOX National: Arcot Road",
+    "average_ticket_price":153.6,
+    "total_seats":1182,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1182,
+    "calculated_ticket_prices":153.6,
+    "calculated_screens":5,
+    "average_2":153.6,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.27379,13.04295 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"INOX: Chennai Citi Centre, Dr. RK Salai",
+    "average_ticket_price":153.6,
+    "total_seats":528,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":528,
+    "calculated_ticket_prices":153.6,
+    "calculated_screens":4,
+    "average_2":153.6,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.21681,12.991539999999999 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"Luxe Cinemas: Chennai",
+    "average_ticket_price":153.6,
+    "total_seats":1844,
+    "no_screens":9,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1844,
+    "calculated_ticket_prices":153.6,
+    "calculated_screens":9,
+    "average_2":153.6,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.22138000000001,13.07359 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"PVR: Ampa, Chennai",
+    "average_ticket_price":82.7,
+    "total_seats":1794,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1290,
+    "calculated_ticket_prices":82.7,
+    "calculated_screens":4,
+    "average_2":82.7,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.22036,12.97195 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"PVR: Velachery, Chennai",
+    "average_ticket_price":82.7,
+    "total_seats":1275,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":812,
+    "calculated_ticket_prices":82.7,
+    "calculated_screens":3,
+    "average_2":82.7,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.19586,13.07575 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"Rohini Silver Screens: Chennai",
+    "average_ticket_price":104.03,
+    "total_seats":3175,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1237,
+    "calculated_ticket_prices":104.03,
+    "calculated_screens":4,
+    "average_2":107.50428570000001,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.26496999999999,13.056560000000001 ]
+    },
+    "properties": {
+    "city":"Chennai",
+    "theatre_name":"Woodlands Complex: Chennai",
+    "average_ticket_price":69.5,
+    "total_seats":1713,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":2846,
+    "calculated_ticket_prices":69.5,
+    "calculated_screens":2,
+    "average_2":69.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.22107,28.634290000000004 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Carnival: Odeon Complex",
+    "average_ticket_price":493.0555556,
+    "total_seats":592,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":592,
+    "calculated_ticket_prices":450,
+    "calculated_screens":2,
+    "average_2":491.66666669999995,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.30189,28.656809999999997 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Cinepolis: Cross River Mall, Mall, Shahdara",
+    "average_ticket_price":249.375,
+    "total_seats":1191,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":1321,
+    "calculated_ticket_prices":202,
+    "calculated_screens":5,
+    "average_2":253.27586209999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.11631,28.71513 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Cinepolis: Unity One Mall Rohini, Delhi",
+    "average_ticket_price":350.13194439999995,
+    "total_seats":659,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":640,
+    "calculated_ticket_prices":296.25,
+    "calculated_screens":4,
+    "average_2":351.55172410000006,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.28605999999999,28.637109999999996 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Cinepolis: V3S Mall, Laxmi Nagar",
+    "average_ticket_price":236.78571430000002,
+    "total_seats":836,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":833,
+    "calculated_ticket_prices":215,
+    "calculated_screens":3,
+    "average_2":238.33333330000002,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.23586999999999,28.64122 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Delite Cinema: Asaf Ali Road",
+    "average_ticket_price":93.75,
+    "total_seats":110,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1960,
+    "calculated_ticket_prices":93.75,
+    "calculated_screens":2,
+    "average_2":107.25,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.21713000000001,28.5274 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"DT Cinemas: DLF Place, Saket",
+    "average_ticket_price":286.0795455,
+    "total_seats":953,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"DT Cinemas",
+    "calculated_seats":952,
+    "calculated_ticket_prices":175,
+    "calculated_screens":6,
+    "average_2":281.5789474,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.14843,28.691509999999997 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Fun Cinemas: North Square Mall, Pitampura",
+    "average_ticket_price":227.5,
+    "total_seats":800,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Fun Cinemas",
+    "calculated_seats":800,
+    "calculated_ticket_prices":190,
+    "calculated_screens":3,
+    "average_2":224.7727273,
+    "source_of_information":"BookMyShow",
+    "notes":"https://www.delhiinformation.in/entertainment/cinemas-multiplexes/fun-cinema-pitampura.html",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.13945,28.656679999999998 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Fun Cinemas: TDI Mall, Moti Nagar",
+    "average_ticket_price":198.11111110000002,
+    "total_seats":643,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Fun Cinemas",
+    "calculated_seats":627,
+    "calculated_ticket_prices":185,
+    "calculated_screens":3,
+    "average_2":198.75,
+    "source_of_information":"BookMyShow",
+    "notes":"https://www.delhiinformation.in/entertainment/cinemas-multiplexes/fun-cinemas-tdi-fun-republic-moti-nagar.html",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.11376,28.734690000000004 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"G3S Cinema: Rohini",
+    "average_ticket_price":228.5714286,
+    "total_seats":809,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":802,
+    "calculated_ticket_prices":170,
+    "calculated_screens":3,
+    "average_2":223.33333330000002,
+    "source_of_information":"BookMyShow",
+    "notes":"http://www.excellentpublicity.com/cinema/chain/g3s.html",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.24623000000001,28.55923 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"M Cinemas: East of Kailash (Gold Class)",
+    "average_ticket_price":493.75,
+    "total_seats":780,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":780,
+    "calculated_ticket_prices":325,
+    "calculated_screens":2,
+    "average_2":500,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.13325999999999,28.68925 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"M2K: Pitampura",
+    "average_ticket_price":230.8571429,
+    "total_seats":807,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"M2K Cinemas",
+    "calculated_seats":934,
+    "calculated_ticket_prices":207.375,
+    "calculated_screens":4,
+    "average_2":242.8666667,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1166,28.700940000000003 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"M2K: Rohini",
+    "average_ticket_price":221.33333330000002,
+    "total_seats":588,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"M2K Cinemas",
+    "calculated_seats":816,
+    "calculated_ticket_prices":190.66666669999998,
+    "calculated_screens":3,
+    "average_2":218.974359,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1069,28.638740000000002 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Miraj Cinemas: Subhash Nagar",
+    "average_ticket_price":231.83333330000002,
+    "total_seats":470,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Miraj Cinema",
+    "calculated_seats":470,
+    "calculated_ticket_prices":180,
+    "calculated_screens":2,
+    "average_2":231.5384615,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.14283,28.705820000000003 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Movietime: Pitampura",
+    "average_ticket_price":168.3928571,
+    "total_seats":788,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Movietime",
+    "calculated_seats":798,
+    "calculated_ticket_prices":112.5,
+    "calculated_screens":3,
+    "average_2":167.7631579,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.excellentpublicity.com/cinema",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.12335,28.652659999999997 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Movietime: Raja Garden",
+    "average_ticket_price":200.96212119999998,
+    "total_seats":1226,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"Movietime",
+    "calculated_seats":1512,
+    "calculated_ticket_prices":164.58333330000002,
+    "calculated_screens":6,
+    "average_2":208.18181819999998,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.excellentpublicity.com/cinema",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.15575,28.54262 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR Promenade: Vasant Kunj",
+    "average_ticket_price":431.72348480000005,
+    "total_seats":1139,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1304,
+    "calculated_ticket_prices":382.5,
+    "calculated_screens":7,
+    "average_2":429.6794871999999,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.delhiinformation.in/entertainment/cinemas-multiplexes/dt-star-cinemas-vasant-kunj.html",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.20716,28.523740000000004 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Anupam, Delhi",
+    "average_ticket_price":170.6018519,
+    "total_seats":1000,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":761,
+    "calculated_ticket_prices":100,
+    "calculated_screens":4,
+    "average_2":174.137931,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.excellentpublicity.com/cinema",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.15479,28.5408 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Director's Cut, Ambience Delhi",
+    "average_ticket_price":1458.333333,
+    "total_seats":282,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":261,
+    "calculated_ticket_prices":600,
+    "calculated_screens":4,
+    "average_2":1412.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.13889,28.63308 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Naraina, Delhi",
+    "average_ticket_price":221.66666669999998,
+    "total_seats":830,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":625,
+    "calculated_ticket_prices":158,
+    "calculated_screens":5,
+    "average_2":222.8571429,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.10595,28.64269 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Pacific, Delhi",
+    "average_ticket_price":446.34151789999993,
+    "total_seats":1116,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1228,
+    "calculated_ticket_prices":349.375,
+    "calculated_screens":6,
+    "average_2":459.9444444,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.barco.com/en/News/Press-releases/PVR-Cinemas-first-to-adopt-Barcos-immersive-sound-technology-in-New-Delhi.aspx",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.13594,28.712509999999998 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Prashant Vihar, Delhi",
+    "average_ticket_price":283.3134921,
+    "total_seats":426,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":852,
+    "calculated_ticket_prices":166.25,
+    "calculated_screens":4,
+    "average_2":285.18939389999997,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1735,28.572390000000002 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Sangam, Delhi",
+    "average_ticket_price":312.23214289999993,
+    "total_seats":392,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":392,
+    "calculated_ticket_prices":312.5,
+    "calculated_screens":2,
+    "average_2":315.4166667,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.21973,28.528570000000002 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Select City Walk, Delhi",
+    "average_ticket_price":523.1349206,
+    "total_seats":677,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1005,
+    "calculated_ticket_prices":250,
+    "calculated_screens":5,
+    "average_2":544.4444444000001,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.15833,28.702820000000003 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Shalimar Bagh",
+    "average_ticket_price":311.07142860000005,
+    "total_seats":1142,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":985,
+    "calculated_ticket_prices":285,
+    "calculated_screens":4,
+    "average_2":310,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.07448000000001,28.639020000000002 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"PVR: Vikaspuri, Delhi",
+    "average_ticket_price":202.26190480000002,
+    "total_seats":921,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":832,
+    "calculated_ticket_prices":118.75,
+    "calculated_screens":4,
+    "average_2":199.16666669999998,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"https://www.delhiinformation.in/entertainment/cinemas-multiplexes/pvr-vikaspuri.html",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.28808000000001,28.67512 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Q Cinemas: Shahdara",
+    "average_ticket_price":185.41666669999998,
+    "total_seats":601,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Q Cinemas",
+    "calculated_seats":601,
+    "calculated_ticket_prices":145,
+    "calculated_screens":3,
+    "average_2":186.1764706,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1208,28.65193 ]
+    },
+    "properties": {
+    "city":"Delhi",
+    "theatre_name":"Wave: Raja Garden",
+    "average_ticket_price":269.1666667,
+    "total_seats":777,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":777,
+    "calculated_ticket_prices":165,
+    "calculated_screens":4,
+    "average_2":265.96153849999996,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.57207,17.40215 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian CineSquare Multiplex: Uppal",
+    "average_ticket_price":125,
+    "total_seats":1512,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Asian",
+    "calculated_seats":1512,
+    "calculated_ticket_prices":125,
+    "calculated_screens":5,
+    "average_2":125,
+    "source_of_information":"BookMyShow",
+    "notes":"http://asiancinemas.in/locations.html",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.39067,17.499229999999997 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian GPR Multiplex: Kukatpally",
+    "average_ticket_price":162.5,
+    "total_seats":1143,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Asian",
+    "calculated_seats":1143,
+    "calculated_ticket_prices":162.5,
+    "calculated_screens":3,
+    "average_2":162.5,
+    "source_of_information":"BookMyShow",
+    "notes":"http://asiancinemas.in/locations.html",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.42831,17.46753 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Lakshmikala Cinepride: Moosapet",
+    "average_ticket_price":88.81481481,
+    "total_seats":2403,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Asian",
+    "calculated_seats":2403,
+    "calculated_ticket_prices":86.66666667,
+    "calculated_screens":4,
+    "average_2":86.66666667,
+    "source_of_information":"BookMyShow",
+    "notes":"http://asiancinemas.in/locations.html",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.43027,17.37169 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian M Cube Mall: Attapur",
+    "average_ticket_price":140,
+    "total_seats":1014,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Asian",
+    "calculated_seats":1370,
+    "calculated_ticket_prices":140,
+    "calculated_screens":4,
+    "average_2":140,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.56309,17.47656 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Asian Radhika Multiplex: ECIL",
+    "average_ticket_price":130,
+    "total_seats":894,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Asian",
+    "calculated_seats":894,
+    "calculated_ticket_prices":130,
+    "calculated_screens":3,
+    "average_2":130,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.55422,17.34365 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"BVK Multiplex Vijayalakshmi: LB Nagar",
+    "average_ticket_price":105.55555559999999,
+    "total_seats":1211,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1211,
+    "calculated_ticket_prices":111.1111111,
+    "calculated_screens":3,
+    "average_2":111.1111111,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.44846,17.43026 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Carnival: Ameerpet",
+    "average_ticket_price":150,
+    "total_seats":1361,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":1361,
+    "calculated_ticket_prices":150,
+    "calculated_screens":4,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.35329,17.49534 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Cine Town: Miyapur",
+    "average_ticket_price":90,
+    "total_seats":1263,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1659,
+    "calculated_ticket_prices":90,
+    "calculated_screens":3,
+    "average_2":90,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.53681,17.457179999999997 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Cinepolis: CCPL Mall, Hyderabad",
+    "average_ticket_price":150,
+    "total_seats":703,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":703,
+    "calculated_ticket_prices":150,
+    "calculated_screens":5,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.39322,17.48978 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Cinepolis: Manjeera Mall, Kukatpally",
+    "average_ticket_price":200,
+    "total_seats":1405,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":1405,
+    "calculated_ticket_prices":200,
+    "calculated_screens":5,
+    "average_2":200,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4206,17.35388 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Cinepolis: Mantra Mall, Attapur",
+    "average_ticket_price":200,
+    "total_seats":1094,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":1094,
+    "calculated_ticket_prices":200,
+    "calculated_screens":5,
+    "average_2":200,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.44861,17.4195 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"INOX: GVK One, Banjara Hills",
+    "average_ticket_price":200,
+    "total_seats":1257,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1113,
+    "calculated_ticket_prices":200,
+    "calculated_screens":6,
+    "average_2":200,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.48862,17.390520000000002 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"INOX: Maheshwari Parmeshwari Mall, Kachiguda",
+    "average_ticket_price":150,
+    "total_seats":1021,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":866,
+    "calculated_ticket_prices":150,
+    "calculated_screens":4,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5362,17.367639999999998 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Miraj Cinemas: Shalini Shivani, Hyderabad",
+    "average_ticket_price":158.85416669999998,
+    "total_seats":1286,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Miraj Cinema",
+    "calculated_seats":1286,
+    "calculated_ticket_prices":162.5,
+    "calculated_screens":4,
+    "average_2":162.5,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.47,17.33215 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Prasads: Hyderabad",
+    "average_ticket_price":150,
+    "total_seats":2230,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1508,
+    "calculated_ticket_prices":150,
+    "calculated_screens":4,
+    "average_2":150,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.38904000000001,17.48452 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"PVR Forum Sujana Mall: Kukatpally, Hyderabad",
+    "average_ticket_price":200,
+    "total_seats":2140,
+    "no_screens":9,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":2158,
+    "calculated_ticket_prices":200,
+    "calculated_screens":9,
+    "average_2":200,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.38674,17.43505 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"PVR: Inorbit, Cyberabad",
+    "average_ticket_price":150,
+    "total_seats":800,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":947,
+    "calculated_ticket_prices":150,
+    "calculated_screens":6,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.45295,17.42675 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"PVR: Panjagutta, Hyderabad",
+    "average_ticket_price":150,
+    "total_seats":1322,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1322,
+    "calculated_ticket_prices":150,
+    "calculated_screens":5,
+    "average_2":150,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.42792,17.42332 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"PVR: RK Cineplex, Hyderabad",
+    "average_ticket_price":200,
+    "total_seats":1034,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1232,
+    "calculated_ticket_prices":200,
+    "calculated_screens":3,
+    "average_2":200,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.3171,17.49805 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Srilatha and Sridevi Complex: Chanda Nagar",
+    "average_ticket_price":55,
+    "total_seats":2009,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1258,
+    "calculated_ticket_prices":55,
+    "calculated_screens":2,
+    "average_2":55,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://davp.nic.in/ufo.pdf",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.57245999999999,17.477710000000002 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Talluri Theatres: Kushaiguda",
+    "average_ticket_price":69.5,
+    "total_seats":1148,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1415,
+    "calculated_ticket_prices":69.5,
+    "calculated_screens":3,
+    "average_2":69.5,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"https://www.sbdbforums.com/post/hyderabad-theatres-screen-capacities-and-prices-8389945?trail=",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.49304000000001,17.44833 ]
+    },
+    "properties": {
+    "city":"Hyderabad",
+    "theatre_name":"Tivoli Cinema: Hyderabad",
+    "average_ticket_price":118,
+    "total_seats":453,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":850,
+    "calculated_ticket_prices":118,
+    "calculated_screens":3,
+    "average_2":118,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.31232,10.01432 ]
+    },
+    "properties": {
+    "city":"Kochi",
+    "theatre_name":"Cinemax: Oberon, Kochi",
+    "average_ticket_price":128.3472222,
+    "total_seats":634,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Cinemax",
+    "calculated_seats":634,
+    "calculated_ticket_prices":111.33333329999999,
+    "calculated_screens":4,
+    "average_2":131.4090909,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.28262,9.978572999999999 ]
+    },
+    "properties": {
+    "city":"Kochi",
+    "theatre_name":"EVM Kavitha Theatre 2K UFO: Ernakulam",
+    "average_ticket_price":110,
+    "total_seats":1220,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":200,
+    "calculated_ticket_prices":110,
+    "calculated_screens":1,
+    "average_2":110,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.31626999999999,9.977553 ]
+    },
+    "properties": {
+    "city":"Kochi",
+    "theatre_name":"Q Cinemas: Gold Souk Grande",
+    "average_ticket_price":159.5384615,
+    "total_seats":1236,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Q Cinemas",
+    "calculated_seats":920,
+    "calculated_ticket_prices":110,
+    "calculated_screens":4,
+    "average_2":156.08695649999999,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.27759,9.984625999999999 ]
+    },
+    "properties": {
+    "city":"Kochi",
+    "theatre_name":"Sarita Cinema: Kochi",
+    "average_ticket_price":110,
+    "total_seats":2141,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":90,
+    "calculated_ticket_prices":110,
+    "calculated_screens":3,
+    "average_2":110,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.snehasallapam.com/forum2/12295-theater-capacity-ticket-rates.html",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.39319,22.51558 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Cinepolis: Acropolis Mall, Kolkata",
+    "average_ticket_price":200.5,
+    "total_seats":885,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":873,
+    "calculated_ticket_prices":140,
+    "calculated_screens":4,
+    "average_2":199.2,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.34876,22.51652 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Cinepolis: Lake Mall, Kolkata",
+    "average_ticket_price":214.2045455,
+    "total_seats":947,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":947,
+    "calculated_ticket_prices":160.83333330000002,
+    "calculated_screens":4,
+    "average_2":218.16666669999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3591,22.56492 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"Hind INOX: Kolkata",
+    "average_ticket_price":178.2,
+    "total_seats":710,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":704,
+    "calculated_ticket_prices":118,
+    "calculated_screens":2,
+    "average_2":184.66666669999998,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.excellentpublicity.com/cinema",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3513,22.538439999999998 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"INOX: Forum Mall, Elgin Road",
+    "average_ticket_price":231.1720833,
+    "total_seats":1015,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1155,
+    "calculated_ticket_prices":170,
+    "calculated_screens":4,
+    "average_2":232.9417333,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.excellentpublicity.com/cinema",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.39075,22.48339 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"INOX: Hiland Park",
+    "average_ticket_price":171.452381,
+    "total_seats":934,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1207,
+    "calculated_ticket_prices":159.25,
+    "calculated_screens":4,
+    "average_2":171.8125,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.36565,22.53914 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"INOX: Quest Mall",
+    "average_ticket_price":313.0919697,
+    "total_seats":511,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1189,
+    "calculated_ticket_prices":202.5,
+    "calculated_screens":4,
+    "average_2":312.8032,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.36565,22.53914 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"INOX: Quest Mall (Insignia)",
+    "average_ticket_price":608.3333332999999,
+    "total_seats":162,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":239,
+    "calculated_ticket_prices":416.6666667,
+    "calculated_screens":3,
+    "average_2":608.3333332999999,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.36196,22.501360000000002 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"INOX: South City, Kolkata",
+    "average_ticket_price":306.1619444,
+    "total_seats":1426,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1575,
+    "calculated_ticket_prices":221.66666669999998,
+    "calculated_screens":6,
+    "average_2":316.00842339999997,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.40126,22.57114 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"INOX: Swabhumi, Maulana Azad Sarani",
+    "average_ticket_price":166.7109259,
+    "total_seats":1022,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":2428,
+    "calculated_ticket_prices":90,
+    "calculated_screens":4,
+    "average_2":166.5562069,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.36665,22.526229999999998 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"London Paris: Mukti World Ballygunge",
+    "average_ticket_price":237,
+    "total_seats":298,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":298,
+    "calculated_ticket_prices":150,
+    "calculated_screens":2,
+    "average_2":233.33333330000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.4009,22.57771 ]
+    },
+    "properties": {
+    "city":"Kolkata",
+    "theatre_name":"PVR: Mani Square Mall, Kolkata",
+    "average_ticket_price":237.3840741,
+    "total_seats":1208,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1398,
+    "calculated_ticket_prices":200,
+    "calculated_screens":4,
+    "average_2":243.26630950000003,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84371999999999,19.14108 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"24 Karat: Jogeshwari",
+    "average_ticket_price":219.5555556,
+    "total_seats":1527,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":1543,
+    "calculated_ticket_prices":130,
+    "calculated_screens":4,
+    "average_2":227.5,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.87733,19.06685 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Bharat Cineplex: Kurla (W)",
+    "average_ticket_price":175,
+    "total_seats":398,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":398,
+    "calculated_ticket_prices":175,
+    "calculated_screens":2,
+    "average_2":175,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.86811999999999,19.21546 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Carnival: Annex Mall, Borivali",
+    "average_ticket_price":174.10925930000002,
+    "total_seats":636,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":739,
+    "calculated_ticket_prices":119.25,
+    "calculated_screens":4,
+    "average_2":174.0384615,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.93694,19.14617 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Carnival: Dreams Mall, Bhandup",
+    "average_ticket_price":138.21212119999998,
+    "total_seats":1334,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":1106,
+    "calculated_ticket_prices":114,
+    "calculated_screens":5,
+    "average_2":140.37931030000001,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83473000000001,19.15756 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Carnival: Harmony Mall, Oshiwara",
+    "average_ticket_price":160.06,
+    "total_seats":433,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":433,
+    "calculated_ticket_prices":116.66666670000001,
+    "calculated_screens":2,
+    "average_2":160.8717949,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.92615,19.128729999999997 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Carnival: Huma, Kanjurmarg",
+    "average_ticket_price":136.69166669999998,
+    "total_seats":1263,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":1263,
+    "calculated_ticket_prices":110,
+    "calculated_screens":4,
+    "average_2":134.84615380000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.881,19.03122 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Carnival: IMAX, Wadala",
+    "average_ticket_price":196.5968254,
+    "total_seats":1634,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":1334,
+    "calculated_ticket_prices":128.6666667,
+    "calculated_screens":4,
+    "average_2":202.1025641,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84638000000001,19.1513 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Carnival: Moviestar, Goregaon",
+    "average_ticket_price":123.8589744,
+    "total_seats":1366,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":1040,
+    "calculated_ticket_prices":110.625,
+    "calculated_screens":4,
+    "average_2":126.925,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.95173,19.18385 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Carnival: R Mall Mulund",
+    "average_ticket_price":150.9619048,
+    "total_seats":1353,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":1353,
+    "calculated_ticket_prices":106,
+    "calculated_screens":4,
+    "average_2":148.02777780000002,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.86466999999999,19.112389999999998 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Carnival: Sangam, Andheri",
+    "average_ticket_price":230.712963,
+    "total_seats":1274,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Carnival",
+    "calculated_seats":1274,
+    "calculated_ticket_prices":128,
+    "calculated_screens":4,
+    "average_2":228.0384615,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83400999999999,19.18512 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Cinemax: Infiniti Mall, Malad (W)",
+    "average_ticket_price":252.310119,
+    "total_seats":904,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Cinemax",
+    "calculated_seats":951,
+    "calculated_ticket_prices":144.4,
+    "calculated_screens":5,
+    "average_2":244.1777778,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"http://www.excellentpublicity.com/cinema/",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.90937,19.0796 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Cinemax: R Odeon Mall, Ghatkopar (E)",
+    "average_ticket_price":158.3928571,
+    "total_seats":1250,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Cinemax",
+    "calculated_seats":1058,
+    "calculated_ticket_prices":115,
+    "calculated_screens":4,
+    "average_2":155.8,
+    "source_of_information":"BookMyShow, Internet Research",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83279,19.13469 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Cinepolis: Fun Republic Mall, Andheri (W)",
+    "average_ticket_price":260.00925930000005,
+    "total_seats":1271,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":907,
+    "calculated_ticket_prices":187.5,
+    "calculated_screens":4,
+    "average_2":257.5,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.93097,19.14114 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Cinepolis: Magnet Mall, Bhandup (W)",
+    "average_ticket_price":210.2347222,
+    "total_seats":956,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"Cinepolis",
+    "calculated_seats":902,
+    "calculated_ticket_prices":175.13888889999998,
+    "calculated_screens":6,
+    "average_2":212.6126126,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.90172,19.05235 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Fun Cinemas: K Star Mall, Chembur",
+    "average_ticket_price":149.7530864,
+    "total_seats":1253,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Fun Cinemas",
+    "calculated_seats":1241,
+    "calculated_ticket_prices":103.33333329999999,
+    "calculated_screens":5,
+    "average_2":152.88888889999998,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83872,19.06148 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"G7 Multiplex: Bandra (W)",
+    "average_ticket_price":98.66666667,
+    "total_seats":2266,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":3714,
+    "calculated_ticket_prices":97.14285714,
+    "calculated_screens":7,
+    "average_2":98.16091954,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.82293,18.926479999999998 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"INOX Laserplex: CR2, Nariman Point",
+    "average_ticket_price":496.005291,
+    "total_seats":868,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":695,
+    "calculated_ticket_prices":256,
+    "calculated_screens":5,
+    "average_2":497.66666669999995,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83547,19.17238 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"INOX: Inorbit Mall, Malad (W)",
+    "average_ticket_price":279.24944439999996,
+    "total_seats":1212,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1739,
+    "calculated_ticket_prices":150.28571430000002,
+    "calculated_screens":7,
+    "average_2":273.8861789,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.90916999999999,19.08522 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"INOX: Neelyog, Ghatkopar (E)",
+    "average_ticket_price":159.40476189999998,
+    "total_seats":915,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1252,
+    "calculated_ticket_prices":115,
+    "calculated_screens":4,
+    "average_2":160.8,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84918,19.21345 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"INOX: Raghuleela Mall, Kandivali (W)",
+    "average_ticket_price":194.45833330000002,
+    "total_seats":1236,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1460,
+    "calculated_ticket_prices":118,
+    "calculated_screens":5,
+    "average_2":195.65517240000003,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.91545,19.09982 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"INOX: R-City, Ghatkopar",
+    "average_ticket_price":357.0008547,
+    "total_seats":1220,
+    "no_screens":9,
+    "type":"Multiplex",
+    "theatre_chain":"Inox",
+    "calculated_seats":1700,
+    "calculated_ticket_prices":204.5925926,
+    "calculated_screens":9,
+    "average_2":372.4213836,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.82884,19.232229999999998 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Maxus Cinemas: Borivali (W)",
+    "average_ticket_price":224.63541669999998,
+    "total_seats":917,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Maxus Cinema",
+    "calculated_seats":896,
+    "calculated_ticket_prices":171.25,
+    "calculated_screens":4,
+    "average_2":216.7391304,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.88374,19.09339 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Maxus Cinemas: Saki Naka",
+    "average_ticket_price":194.94047619999998,
+    "total_seats":951,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"Maxus Cinema",
+    "calculated_seats":951,
+    "calculated_ticket_prices":143.75,
+    "calculated_screens":4,
+    "average_2":189.3103448,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.85126,19.16545 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Miraj Anupam Cinemas: Goregaon (E)",
+    "average_ticket_price":146.16666669999998,
+    "total_seats":490,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Miraj Cinema",
+    "calculated_seats":490,
+    "calculated_ticket_prices":100,
+    "calculated_screens":2,
+    "average_2":143.5714286,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83519,19.18909 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Movietime: Malad",
+    "average_ticket_price":161.4444444,
+    "total_seats":403,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Movietime",
+    "calculated_seats":403,
+    "calculated_ticket_prices":128.3333333,
+    "calculated_screens":3,
+    "average_2":163.91666669999998,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.85625999999999,19.1548 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Movietime: The Hub, Goregaon",
+    "average_ticket_price":178.6022487,
+    "total_seats":1320,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"Movietime",
+    "calculated_seats":1390,
+    "calculated_ticket_prices":100,
+    "calculated_screens":7,
+    "average_2":180.76923080000003,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83596,18.98584 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Mukta A2 Cinemas: Jai Hind, Lalbaugh",
+    "average_ticket_price":158.0555556,
+    "total_seats":350,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Mukta A2",
+    "calculated_seats":350,
+    "calculated_ticket_prices":90,
+    "calculated_screens":2,
+    "average_2":157.5384615,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84758000000001,19.16381 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Mukta A2 Cinemas: Topiwala, Goregaon",
+    "average_ticket_price":129.5462963,
+    "total_seats":453,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Mukta A2",
+    "calculated_seats":453,
+    "calculated_ticket_prices":103.33333329999999,
+    "calculated_screens":2,
+    "average_2":130.1025641,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83059,19.14147 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR ICON: Versova",
+    "average_ticket_price":290.91975310000004,
+    "total_seats":844,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1064,
+    "calculated_ticket_prices":183.33333330000002,
+    "calculated_screens":4,
+    "average_2":304.4927536,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83059,19.14147 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR ICON: Versova (Gold)",
+    "average_ticket_price":616.6666667000001,
+    "total_seats":86,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":172,
+    "calculated_ticket_prices":400,
+    "calculated_screens":2,
+    "average_2":625,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83122,19.13854 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Citi Mall, Andheri (W)",
+    "average_ticket_price":265.4938272,
+    "total_seats":864,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1080,
+    "calculated_ticket_prices":150,
+    "calculated_screens":5,
+    "average_2":268.4375,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.82753000000001,19.11482 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Dynamix, Juhu",
+    "average_ticket_price":277.45502650000003,
+    "total_seats":1279,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1452,
+    "calculated_ticket_prices":150,
+    "calculated_screens":5,
+    "average_2":270,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.86005,19.20261 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Growel, Kandivali (E)",
+    "average_ticket_price":228.452381,
+    "total_seats":482,
+    "no_screens":4,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":874,
+    "calculated_ticket_prices":99.16666667,
+    "calculated_screens":4,
+    "average_2":224.1333333,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.88842,19.08571 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Market City, Kurla (4DX)",
+    "average_ticket_price":398.2142857,
+    "total_seats":288,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":288,
+    "calculated_ticket_prices":241.25,
+    "calculated_screens":2,
+    "average_2":398.2142857,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.88842,19.08571 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Market City, Kurla (Gold)",
+    "average_ticket_price":530,
+    "total_seats":137,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":137,
+    "calculated_ticket_prices":355,
+    "calculated_screens":2,
+    "average_2":536.8181818,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.88842,19.08571 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Market City, Kurla (Premiere)",
+    "average_ticket_price":243.72354500000003,
+    "total_seats":910,
+    "no_screens":5,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1133,
+    "calculated_ticket_prices":94.5,
+    "calculated_screens":5,
+    "average_2":240.4032258,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84706,19.196170000000002 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Milap, Kandivali (W)",
+    "average_ticket_price":197.5,
+    "total_seats":325,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":325,
+    "calculated_ticket_prices":107.5,
+    "calculated_screens":2,
+    "average_2":204.375,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.93695,19.16732 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Nirmal Lifestyle, Mulund (W)",
+    "average_ticket_price":172.77777780000002,
+    "total_seats":1815,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1784,
+    "calculated_ticket_prices":120,
+    "calculated_screens":6,
+    "average_2":168.23529409999998,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.86125,19.17399 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Oberoi Mall, Goregaon (E)",
+    "average_ticket_price":264.9142857,
+    "total_seats":1782,
+    "no_screens":6,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1210,
+    "calculated_ticket_prices":152.5,
+    "calculated_screens":4,
+    "average_2":266.1111111,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.82406999999999,18.9952 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Phoenix, Lower Parel",
+    "average_ticket_price":337.8737374,
+    "total_seats":1760,
+    "no_screens":7,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":1472,
+    "calculated_ticket_prices":210,
+    "calculated_screens":6,
+    "average_2":349.61904760000004,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.86421999999999,19.04175 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"PVR: Sion",
+    "average_ticket_price":172.8125,
+    "total_seats":730,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"PVR",
+    "calculated_seats":841,
+    "calculated_ticket_prices":98.33333333,
+    "calculated_screens":3,
+    "average_2":169.047619,
+    "source_of_information":"BookMyShow, MediaAnt",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.83306999999999,18.93838 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Sterling Cineplex: Fort",
+    "average_ticket_price":167.54166669999998,
+    "total_seats":900,
+    "no_screens":3,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":900,
+    "calculated_ticket_prices":90,
+    "calculated_screens":3,
+    "average_2":165,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.84651,19.10541 ]
+    },
+    "properties": {
+    "city":"Mumbai",
+    "theatre_name":"Sun City: Vile Parle",
+    "average_ticket_price":180.20833330000002,
+    "total_seats":615,
+    "no_screens":2,
+    "type":"Multiplex",
+    "theatre_chain":"Independent",
+    "calculated_seats":615,
+    "calculated_ticket_prices":100,
+    "calculated_screens":2,
+    "average_2":173.0769231,
+    "source_of_information":"BookMyShow",
+    "notes":"",
+    "no_screens_1":2
+    }
+  }
+]
+}
